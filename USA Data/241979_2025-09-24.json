@@ -34168,5 +34168,140 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "NY",
+    "city": "New York",
+    "zip": "10036",
+    "theater_name": "AMC Empire 25",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 516700728,
+    "date": "2025-09-24+15:25",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NY",
+    "city": "New York",
+    "zip": "10036",
+    "theater_name": "AMC Empire 25",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 516700729,
+    "date": "2025-09-24+19:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NY",
+    "city": "New York",
+    "zip": "10036",
+    "theater_name": "AMC Empire 25",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 516700730,
+    "date": "2025-09-24+22:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NC",
+    "city": "Raleigh",
+    "zip": "27613",
+    "theater_name": "Cinemark Bistro Raleigh",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 516702121,
+    "date": "2025-09-24+20:25",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "OH",
+    "city": "Columbus",
+    "zip": "43219",
+    "theater_name": "AMC Dine-in Easton Town Center 30",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 514972221,
+    "date": "2025-09-24+14:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "OH",
+    "city": "Columbus",
+    "zip": "43219",
+    "theater_name": "AMC Dine-in Easton Town Center 30",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 516667969,
+    "date": "2025-09-24+18:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "OH",
+    "city": "Columbus",
+    "zip": "43219",
+    "theater_name": "AMC Dine-in Easton Town Center 30",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 516667970,
+    "date": "2025-09-24+22:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MI",
+    "city": "Portage",
+    "zip": "49024",
+    "theater_name": "Celebration Cinema Crossroads",
+    "chainName": "Celebration Cinema ",
+    "chainCode": "CELE",
+    "showtime_id": 516699541,
+    "date": "2025-09-24+19:45",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MI",
+    "city": "Grand Rapids",
+    "zip": "49525",
+    "theater_name": "Celebration Cinema Grand Rapids North",
+    "chainName": "Celebration Cinema ",
+    "chainCode": "CELE",
+    "showtime_id": 516699581,
+    "date": "2025-09-24+19:45",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
   }
 ]
