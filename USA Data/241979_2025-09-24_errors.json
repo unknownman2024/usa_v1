@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-19 06:41:43 PM",
+  "last_updated": "2025-09-19 07:54:59 PM",
   "errors": [
     {
       "state": "MA",
@@ -33865,6 +33865,126 @@
       "chainCode": "CNMK",
       "showtime_id": 514134945,
       "date": "2025-09-24+21:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Fort Wayne",
+      "zip": "46825",
+      "theater_name": "Regal Coldwater Crossing",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 516695715,
+      "date": "2025-09-24+14:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Lufkin",
+      "zip": "75901",
+      "theater_name": "Cinemark Lufkin",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 514291116,
+      "date": "2025-09-24+13:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Lufkin",
+      "zip": "75901",
+      "theater_name": "Cinemark Lufkin",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 514291117,
+      "date": "2025-09-24+17:05",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Lufkin",
+      "zip": "75901",
+      "theater_name": "Cinemark Lufkin",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 514291118,
+      "date": "2025-09-24+19:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 514106859,
+      "date": "2025-09-24+11:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 514106860,
+      "date": "2025-09-24+15:05",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 514106861,
+      "date": "2025-09-24+18:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 514106862,
+      "date": "2025-09-24+22:15",
       "format": "Standard",
       "language": "Telugu",
       "error": {
