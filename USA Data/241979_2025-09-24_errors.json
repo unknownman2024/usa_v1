@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-20 06:57:37 PM",
+  "last_updated": "2025-09-20 07:52:17 PM",
   "errors": [
     {
       "state": "MA",
@@ -35065,6 +35065,36 @@
       "chainCode": "CNMK",
       "showtime_id": 516805781,
       "date": "2025-09-24+21:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Louisville",
+      "zip": "40241",
+      "theater_name": "Cinemark Tinseltown Louisville and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 516809557,
+      "date": "2025-09-24+17:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Louisville",
+      "zip": "40241",
+      "theater_name": "Cinemark Tinseltown Louisville and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 516809558,
+      "date": "2025-09-24+20:55",
       "format": "Standard",
       "language": "Telugu",
       "error": {
