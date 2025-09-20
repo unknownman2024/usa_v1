@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-20 08:53:42 PM",
+  "last_updated": "2025-09-20 09:58:06 PM",
   "errors": [
     {
       "state": "MA",
@@ -35095,6 +35095,21 @@
       "chainCode": "CNMK",
       "showtime_id": 516809558,
       "date": "2025-09-24+20:55",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Oklahoma City",
+      "zip": "73111",
+      "theater_name": "Cinemark Tinseltown Oklahoma City and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 516810623,
+      "date": "2025-09-24+13:45",
       "format": "Standard",
       "language": "Telugu",
       "error": {
