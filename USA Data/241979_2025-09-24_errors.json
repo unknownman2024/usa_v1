@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-22 04:53:45 AM",
+  "last_updated": "2025-09-22 07:26:09 AM",
   "errors": [
     {
       "state": "MA",
@@ -35395,6 +35395,36 @@
       "chainCode": "AMC",
       "showtime_id": 516830529,
       "date": "2025-09-24+22:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "DE",
+      "city": "Newark",
+      "zip": "19702",
+      "theater_name": "Regal Peoples Plaza",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 516833745,
+      "date": "2025-09-24+18:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Hurst",
+      "zip": "76053",
+      "theater_name": "Cinemark North East Mall 18 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 516833436,
+      "date": "2025-09-24+20:25",
       "format": "Standard",
       "language": "Telugu",
       "error": {
