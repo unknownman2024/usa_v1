@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-22 08:58:12 PM",
+  "last_updated": "2025-09-22 10:02:18 PM",
   "errors": [
     {
       "state": "MA",
@@ -35515,6 +35515,36 @@
       "chainCode": "MRCS",
       "showtime_id": 516838780,
       "date": "2025-09-24+19:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "SC",
+      "city": "Myrtle Beach",
+      "zip": "29577",
+      "theater_name": "Cinemark Myrtle Beach",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 516843106,
+      "date": "2025-09-24+19:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Pooler",
+      "zip": "31322",
+      "theater_name": "Royal Cinemas 14 World's Tallest IMAX & Dolby Atmo",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 516843448,
+      "date": "2025-09-24+20:45",
       "format": "Standard",
       "language": "Telugu",
       "error": {
