@@ -35428,5 +35428,65 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "VA",
+    "city": "Ashburn",
+    "zip": "20148",
+    "theater_name": "Regal Fox 4DX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 516834227,
+    "date": "2025-09-24+22:50",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Ashburn",
+    "zip": "20148",
+    "theater_name": "Regal Fox 4DX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 516834226,
+    "date": "2025-09-24+22:05",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NC",
+    "city": "Greensboro",
+    "zip": "27408",
+    "theater_name": "Regal Greensboro Grande & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 516834464,
+    "date": "2025-09-24+15:20",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NC",
+    "city": "Greensboro",
+    "zip": "27408",
+    "theater_name": "Regal Greensboro Grande & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 516834463,
+    "date": "2025-09-24+21:40",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
   }
 ]
