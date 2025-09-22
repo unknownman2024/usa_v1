@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-23 01:57:10 AM",
+  "last_updated": "2025-09-23 02:52:57 AM",
   "errors": [
     {
       "state": "MA",
@@ -35755,6 +35755,51 @@
       "chainCode": "REGL",
       "showtime_id": 516862243,
       "date": "2025-09-24+18:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Pooler",
+      "zip": "31322",
+      "theater_name": "Royal Cinemas 14 World's Tallest IMAX & Dolby Atmo",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 516871121,
+      "date": "2025-09-24+14:35",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Mason",
+      "zip": "45040",
+      "theater_name": "Regal Deerfield Town Center & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 516865137,
+      "date": "2025-09-24+15:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Chesterfield",
+      "zip": "63005",
+      "theater_name": "Marcus Chesterfield Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 516868079,
+      "date": "2025-09-24+20:30",
       "format": "Standard",
       "language": "Telugu",
       "error": {
