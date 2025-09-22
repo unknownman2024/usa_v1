@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-22 08:44:27 AM",
+  "last_updated": "2025-09-22 10:00:35 AM",
   "errors": [
     {
       "state": "MA",
@@ -35486,6 +35486,21 @@
       "showtime_id": 516834463,
       "date": "2025-09-24+21:40",
       "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Pooler",
+      "zip": "31322",
+      "theater_name": "Royal Cinemas 14 World's Tallest IMAX & Dolby Atmo",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 516811915,
+      "date": "2025-09-24+20:00",
+      "format": "Premium Large Format",
       "language": "Telugu",
       "error": {
         "status": 403
