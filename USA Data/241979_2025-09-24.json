@@ -35893,5 +35893,395 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "CT",
+    "city": "Manchester",
+    "zip": "06042",
+    "theater_name": "Cinemark Buckland Hills 18 XD and IMAX",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 516950431,
+    "date": "2025-09-24+21:55",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NH",
+    "city": "Salem",
+    "zip": "03079",
+    "theater_name": "Cinemark Rockingham Park and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 516974483,
+    "date": "2025-09-24+18:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CT",
+    "city": "Milford",
+    "zip": "06460",
+    "theater_name": "Cinemark Connecticut Post 14 and IMAX",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 516949875,
+    "date": "2025-09-24+19:40",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CT",
+    "city": "Milford",
+    "zip": "06460",
+    "theater_name": "Cinemark Connecticut Post 14 and IMAX",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 516949874,
+    "date": "2025-09-24+22:05",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Pittsburgh",
+    "zip": "15237",
+    "theater_name": "Cinemark North Hills and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 516954697,
+    "date": "2025-09-24+21:20",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "PA",
+    "city": "Pittsburgh",
+    "zip": "15237",
+    "theater_name": "Cinemark North Hills and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 516954698,
+    "date": "2025-09-24+22:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MD",
+    "city": "Frederick",
+    "zip": "21704",
+    "theater_name": "Regal Westview & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 516918528,
+    "date": "2025-09-24+16:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MD",
+    "city": "Frederick",
+    "zip": "21704",
+    "theater_name": "Regal Westview & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 516918529,
+    "date": "2025-09-24+20:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Alpharetta",
+    "zip": "30009",
+    "theater_name": "Regal Avalon",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 516982069,
+    "date": "2025-09-24+14:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Alpharetta",
+    "zip": "30009",
+    "theater_name": "Regal Avalon",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 516982070,
+    "date": "2025-09-24+18:25",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Alpharetta",
+    "zip": "30009",
+    "theater_name": "Regal Avalon",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 516982071,
+    "date": "2025-09-24+22:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Atlanta",
+    "zip": "30328",
+    "theater_name": "The Springs Cinema & Taphouse",
+    "chainName": "The Spring Cinemas and Taphouse",
+    "chainCode": "SPCT",
+    "showtime_id": 516918839,
+    "date": "2025-09-24+19:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "OH",
+    "city": "Aurora",
+    "zip": "44202",
+    "theater_name": "Atlas Cinemas Barrington 10",
+    "chainName": "Atlas Cinemas",
+    "chainCode": "ATLS",
+    "showtime_id": 516951373,
+    "date": "2025-09-24+19:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Plano",
+    "zip": "75093",
+    "theater_name": "Cinemark West Plano and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 516941782,
+    "date": "2025-09-25+00:30",
+    "format": "XD",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Plano",
+    "zip": "75093",
+    "theater_name": "Cinemark West Plano and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 516987653,
+    "date": "2025-09-24+22:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Plano",
+    "zip": "75093",
+    "theater_name": "Cinemark West Plano and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 516917718,
+    "date": "2025-09-25+00:20",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Union City",
+    "zip": "94587",
+    "theater_name": "Cinemark Century Union Landing 25 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 516940096,
+    "date": "2025-09-24+20:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Fremont",
+    "zip": "94538",
+    "theater_name": "Cin\u00e9 Lounge Fremont 7",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 516984234,
+    "date": "2025-09-24+09:30",
+    "format": "Premium Large Format",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Fremont",
+    "zip": "94538",
+    "theater_name": "Cin\u00e9 Lounge Fremont 7",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 516984235,
+    "date": "2025-09-24+10:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Tracy",
+    "zip": "95376",
+    "theater_name": "Cinemark Tracy 14",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 516986760,
+    "date": "2025-09-24+11:40",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Tracy",
+    "zip": "95376",
+    "theater_name": "Cinemark Tracy 14",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 516986756,
+    "date": "2025-09-24+12:35",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Tracy",
+    "zip": "95376",
+    "theater_name": "Cinemark Tracy 14",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 516986761,
+    "date": "2025-09-24+15:20",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Tracy",
+    "zip": "95376",
+    "theater_name": "Cinemark Tracy 14",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 516986757,
+    "date": "2025-09-24+16:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Tracy",
+    "zip": "95376",
+    "theater_name": "Cinemark Tracy 14",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 516986758,
+    "date": "2025-09-24+19:55",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Tracy",
+    "zip": "95376",
+    "theater_name": "Cinemark Tracy 14",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 516986762,
+    "date": "2025-09-24+22:25",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Tracy",
+    "zip": "95376",
+    "theater_name": "Cinemark Tracy 14",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 516986759,
+    "date": "2025-09-24+22:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
   }
 ]
