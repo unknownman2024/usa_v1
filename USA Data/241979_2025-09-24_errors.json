@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-23 10:03:55 PM",
+  "last_updated": "2025-09-23 11:01:21 PM",
   "errors": [
     {
       "state": "MA",
@@ -37105,6 +37105,546 @@
       "chainCode": "CNMK",
       "showtime_id": 517133669,
       "date": "2025-09-24+20:50",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Buffalo",
+      "zip": "14207",
+      "theater_name": "Regal Elmwood Center",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 517140805,
+      "date": "2025-09-24+12:35",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "Buffalo",
+      "zip": "14207",
+      "theater_name": "Regal Elmwood Center",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 517140806,
+      "date": "2025-09-24+13:50",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Reston",
+      "zip": "20190",
+      "theater_name": "LOOK Dine-In Cinemas Reston",
+      "chainName": "LOOK Dine-In Cinemas",
+      "chainCode": "LBC",
+      "showtime_id": 517087552,
+      "date": "2025-09-24+18:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Reston",
+      "zip": "20190",
+      "theater_name": "LOOK Dine-In Cinemas Reston",
+      "chainName": "LOOK Dine-In Cinemas",
+      "chainCode": "LBC",
+      "showtime_id": 517087551,
+      "date": "2025-09-24+21:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "VA",
+      "city": " Tysons",
+      "zip": "22102",
+      "theater_name": "LOOK Dine-In Cinemas Tysons at the Boro",
+      "chainName": "LOOK Dine-In Cinemas",
+      "chainCode": "LBC",
+      "showtime_id": 517081793,
+      "date": "2025-09-24+16:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "VA",
+      "city": " Tysons",
+      "zip": "22102",
+      "theater_name": "LOOK Dine-In Cinemas Tysons at the Boro",
+      "chainName": "LOOK Dine-In Cinemas",
+      "chainCode": "LBC",
+      "showtime_id": 517081794,
+      "date": "2025-09-24+18:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "VA",
+      "city": " Tysons",
+      "zip": "22102",
+      "theater_name": "LOOK Dine-In Cinemas Tysons at the Boro",
+      "chainName": "LOOK Dine-In Cinemas",
+      "chainCode": "LBC",
+      "showtime_id": 517081795,
+      "date": "2025-09-24+21:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Durham",
+      "zip": "27713",
+      "theater_name": "AMC Southpoint 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516314079,
+      "date": "2025-09-24+12:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Concord",
+      "zip": "28027",
+      "theater_name": "AMC Concord Mills 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 517061227,
+      "date": "2025-09-24+14:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Charlotte",
+      "zip": "28270",
+      "theater_name": "Cinemark Bistro Charlotte",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517165326,
+      "date": "2025-09-24+12:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Orlando",
+      "zip": "32819",
+      "theater_name": "Cinemark Orlando and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517150253,
+      "date": "2025-09-24+12:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Orlando",
+      "zip": "32819",
+      "theater_name": "Cinemark Orlando and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517150254,
+      "date": "2025-09-24+19:05",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Sunrise",
+      "zip": "33323",
+      "theater_name": "Regal Sawgrass & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 517152193,
+      "date": "2025-09-24+12:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Decatur",
+      "zip": "35601",
+      "theater_name": "AMC CLASSIC Decatur 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516867738,
+      "date": "2025-09-24+13:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Indianapolis",
+      "zip": "46227",
+      "theater_name": "Cinemark Greenwood Corner",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517149674,
+      "date": "2025-09-24+18:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WI",
+      "city": "Fitchburg",
+      "zip": "53719",
+      "theater_name": "AMC Fitchburg 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516964132,
+      "date": "2025-09-24+13:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Deer Park",
+      "zip": "60010",
+      "theater_name": "Cinemark Century Deer Park 16",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517165105,
+      "date": "2025-09-24+12:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MT",
+      "city": "Helena",
+      "zip": "59601",
+      "theater_name": "Cinemark Helena and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517133105,
+      "date": "2025-09-24+19:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "LA",
+      "city": "Harahan",
+      "zip": "70123",
+      "theater_name": "AMC Elmwood Palace 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516973671,
+      "date": "2025-09-24+17:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75033",
+      "theater_name": "CUT! by Cinemark Frisco - Dine-in Theatre, Kitchen",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517138377,
+      "date": "2025-09-24+11:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75033",
+      "theater_name": "CUT! by Cinemark Frisco - Dine-in Theatre, Kitchen",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517138378,
+      "date": "2025-09-24+12:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Plano",
+      "zip": "75093",
+      "theater_name": "Cinemark West Plano and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517151599,
+      "date": "2025-09-24+11:31",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Plano",
+      "zip": "75093",
+      "theater_name": "Cinemark West Plano and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517151600,
+      "date": "2025-09-24+15:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Garland",
+      "zip": "75040",
+      "theater_name": "AMC Firewheel 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516972523,
+      "date": "2025-09-24+22:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Cedar Park",
+      "zip": "78613",
+      "theater_name": "Cinemark Cedar Park",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517165793,
+      "date": "2025-09-24+14:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517139165,
+      "date": "2025-09-24+11:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Cypress",
+      "zip": "77429",
+      "theater_name": "Cinemark Cypress and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517164157,
+      "date": "2025-09-24+11:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Beaumont",
+      "zip": "77705",
+      "theater_name": "Cinemark Beaumont 15 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517164724,
+      "date": "2025-09-24+11:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Austin",
+      "zip": "78748",
+      "theater_name": "Cinemark Southpark Meadows",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517138439,
+      "date": "2025-09-24+20:55",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Austin",
+      "zip": "78748",
+      "theater_name": "Cinemark Southpark Meadows",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517138440,
+      "date": "2025-09-24+21:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Orange",
+      "zip": "92867",
+      "theater_name": "Cinemark Century Orange and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517151535,
+      "date": "2025-09-24+10:35",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Orange",
+      "zip": "92867",
+      "theater_name": "Cinemark Century Orange and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517151534,
+      "date": "2025-09-24+12:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Sunnyvale",
+      "zip": "94086",
+      "theater_name": "AMC Sunnyvale 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516855497,
+      "date": "2025-09-24+16:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Sunnyvale",
+      "zip": "94086",
+      "theater_name": "AMC Sunnyvale 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516855496,
+      "date": "2025-09-24+20:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Sunnyvale",
+      "zip": "94086",
+      "theater_name": "AMC Sunnyvale 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516855498,
+      "date": "2025-09-24+21:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Mountain View",
+      "zip": "94043",
+      "theater_name": "Cinemark Century Mountain View 16",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517164587,
+      "date": "2025-09-24+19:30",
       "format": "Standard",
       "language": "Telugu",
       "error": {
