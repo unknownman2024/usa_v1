@@ -37648,5 +37648,335 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "CT",
+    "city": "Manchester",
+    "zip": "06042",
+    "theater_name": "Cinemark Buckland Hills 18 XD and IMAX",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517166227,
+    "date": "2025-09-24+12:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CT",
+    "city": "Milford",
+    "zip": "06460",
+    "theater_name": "Cinemark Connecticut Post 14 and IMAX",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517183563,
+    "date": "2025-09-24+14:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NJ",
+    "city": "North Brunswick",
+    "zip": "08902",
+    "theater_name": "Regal Commerce Center & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517192349,
+    "date": "2025-09-24+21:50",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Fairfax",
+    "zip": "22033",
+    "theater_name": "Regal Fairfax Towne Center",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517193911,
+    "date": "2025-09-24+20:40",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Jacksonville",
+    "zip": "32216",
+    "theater_name": "Cinemark Tinseltown Jacksonville and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517184984,
+    "date": "2025-09-24+12:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TN",
+    "city": "Nashville",
+    "zip": "37204",
+    "theater_name": "Regal Hollywood ScreenX, 4DX & RPX \u2013 Nashville",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 516574869,
+    "date": "2025-09-24+13:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TN",
+    "city": "Nashville",
+    "zip": "37204",
+    "theater_name": "Regal Hollywood ScreenX, 4DX & RPX \u2013 Nashville",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517201923,
+    "date": "2025-09-24+21:10",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "OH",
+    "city": "Toledo",
+    "zip": "43623",
+    "theater_name": "Cinemark Franklin Park 16 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517164251,
+    "date": "2025-09-24+12:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MI",
+    "city": "Taylor",
+    "zip": "48180",
+    "theater_name": "Cinemark Southland Mall and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517138350,
+    "date": "2025-09-24+12:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MI",
+    "city": "Canton",
+    "zip": "48187",
+    "theater_name": "Emagine Canton",
+    "chainName": "Emagine",
+    "chainCode": "EMAG",
+    "showtime_id": 517198433,
+    "date": "2025-09-24+12:50",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MI",
+    "city": "Canton",
+    "zip": "48187",
+    "theater_name": "Emagine Canton",
+    "chainName": "Emagine",
+    "chainCode": "EMAG",
+    "showtime_id": 517198432,
+    "date": "2025-09-24+17:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MI",
+    "city": "Canton",
+    "zip": "48187",
+    "theater_name": "Emagine Canton",
+    "chainName": "Emagine",
+    "chainCode": "EMAG",
+    "showtime_id": 517179674,
+    "date": "2025-09-24+20:45",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "OH",
+    "city": "Valley View",
+    "zip": "44125",
+    "theater_name": "Cinemark Valley View and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517175740,
+    "date": "2025-09-24+12:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "SD",
+    "city": "Sioux Falls",
+    "zip": "57106",
+    "theater_name": "Cinemark Century Sioux Falls 14 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517170707,
+    "date": "2025-09-24+14:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "AR",
+    "city": "Little Rock",
+    "zip": "72210",
+    "theater_name": "Cinemark Colonel Glenn and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517197991,
+    "date": "2025-09-24+12:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "OK",
+    "city": "Oklahoma City",
+    "zip": "73111",
+    "theater_name": "Cinemark Tinseltown Oklahoma City and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517184628,
+    "date": "2025-09-24+11:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Roanoke",
+    "zip": "76262",
+    "theater_name": "Cinemark Roanoke and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517172407,
+    "date": "2025-09-24+11:35",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Denton",
+    "zip": "76210",
+    "theater_name": "Cinemark Denton 14",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517183413,
+    "date": "2025-09-24+11:50",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Hurst",
+    "zip": "76053",
+    "theater_name": "Cinemark North East Mall 18 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517174120,
+    "date": "2025-09-24+11:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Bee Cave",
+    "zip": "78738",
+    "theater_name": "Cinemark Hill Country Galleria",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517183412,
+    "date": "2025-09-24+11:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Milpitas",
+    "zip": "95035",
+    "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517171222,
+    "date": "2025-09-24+15:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Redwood City",
+    "zip": "94063",
+    "theater_name": "Cinemark Century Redwood Downtown 20 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517170766,
+    "date": "2025-09-24+19:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
   }
 ]
