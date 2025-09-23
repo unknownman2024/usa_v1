@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-23 10:55:03 AM",
+  "last_updated": "2025-09-23 12:08:09 PM",
   "errors": [
     {
       "state": "MA",
@@ -36535,6 +36535,66 @@
       "chainCode": "CNMK",
       "showtime_id": 517050213,
       "date": "2025-09-24+22:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Fort Wayne",
+      "zip": "46825",
+      "theater_name": "Regal Coldwater Crossing",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 517060760,
+      "date": "2025-09-24+18:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IN",
+      "city": "Fort Wayne",
+      "zip": "46825",
+      "theater_name": "Regal Coldwater Crossing",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 517060761,
+      "date": "2025-09-24+22:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Niles",
+      "zip": "60714",
+      "theater_name": "Ciné Lounge at Niles",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 517077810,
+      "date": "2025-09-24+11:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "The Colony",
+      "zip": "75056",
+      "theater_name": "Galaxy Grandscape",
+      "chainName": "Galaxy Theatres",
+      "chainCode": "GLXY",
+      "showtime_id": 517073981,
+      "date": "2025-09-24+21:00",
       "format": "Standard",
       "language": "Telugu",
       "error": {
