@@ -39463,5 +39463,365 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "MD",
+    "city": "Silver Spring",
+    "zip": "20910",
+    "theater_name": "Regal Majestic & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517339494,
+    "date": "2025-09-24+14:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MD",
+    "city": "Silver Spring",
+    "zip": "20910",
+    "theater_name": "Regal Majestic & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517339496,
+    "date": "2025-09-24+18:10",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MD",
+    "city": "Silver Spring",
+    "zip": "20910",
+    "theater_name": "Regal Majestic & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517339495,
+    "date": "2025-09-24+21:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Centreville",
+    "zip": "20121",
+    "theater_name": "Cinemark Centreville",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517329400,
+    "date": "2025-09-24+12:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NC",
+    "city": "Charlotte",
+    "zip": "28273",
+    "theater_name": "Ayrsley Grand Cinemas",
+    "chainName": "Southeast Cinemas",
+    "chainCode": "SEC",
+    "showtime_id": 517318708,
+    "date": "2025-09-24+15:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NC",
+    "city": "Charlotte",
+    "zip": "28273",
+    "theater_name": "Ayrsley Grand Cinemas",
+    "chainName": "Southeast Cinemas",
+    "chainCode": "SEC",
+    "showtime_id": 517318710,
+    "date": "2025-09-24+16:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NC",
+    "city": "Charlotte",
+    "zip": "28273",
+    "theater_name": "Ayrsley Grand Cinemas",
+    "chainName": "Southeast Cinemas",
+    "chainCode": "SEC",
+    "showtime_id": 517318713,
+    "date": "2025-09-24+17:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NC",
+    "city": "Charlotte",
+    "zip": "28273",
+    "theater_name": "Ayrsley Grand Cinemas",
+    "chainName": "Southeast Cinemas",
+    "chainCode": "SEC",
+    "showtime_id": 517318709,
+    "date": "2025-09-24+19:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NC",
+    "city": "Charlotte",
+    "zip": "28273",
+    "theater_name": "Ayrsley Grand Cinemas",
+    "chainName": "Southeast Cinemas",
+    "chainCode": "SEC",
+    "showtime_id": 517318711,
+    "date": "2025-09-24+20:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NC",
+    "city": "Charlotte",
+    "zip": "28273",
+    "theater_name": "Ayrsley Grand Cinemas",
+    "chainName": "Southeast Cinemas",
+    "chainCode": "SEC",
+    "showtime_id": 517318712,
+    "date": "2025-09-24+21:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TN",
+    "city": "Cordova",
+    "zip": "38018",
+    "theater_name": "Malco Cordova Cinema",
+    "chainName": "Malco Theatres 2",
+    "chainCode": "MALCO",
+    "showtime_id": 517329963,
+    "date": "2025-09-24+16:05",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TN",
+    "city": "Cordova",
+    "zip": "38018",
+    "theater_name": "Malco Cordova Cinema",
+    "chainName": "Malco Theatres 2",
+    "chainCode": "MALCO",
+    "showtime_id": 517329964,
+    "date": "2025-09-24+19:10",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "AR",
+    "city": "Rogers",
+    "zip": "72758",
+    "theater_name": "Malco Pinnacle Hills Cinema",
+    "chainName": "Malco Theatres 2",
+    "chainCode": "MALCO",
+    "showtime_id": 517342769,
+    "date": "2025-09-24+16:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "AR",
+    "city": "Rogers",
+    "zip": "72758",
+    "theater_name": "Malco Pinnacle Hills Cinema",
+    "chainName": "Malco Theatres 2",
+    "chainCode": "MALCO",
+    "showtime_id": 517342768,
+    "date": "2025-09-24+19:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Allen",
+    "zip": "75013",
+    "theater_name": "Cinemark Allen 16 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517329042,
+    "date": "2025-09-24+17:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Allen",
+    "zip": "75013",
+    "theater_name": "Cinemark Allen 16 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517329041,
+    "date": "2025-09-24+19:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Frisco",
+    "zip": "75034",
+    "theater_name": "Cinemark Frisco Square and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517328692,
+    "date": "2025-09-24+15:10",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Denton",
+    "zip": "76210",
+    "theater_name": "Cinemark Denton 14",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517328438,
+    "date": "2025-09-24+21:05",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Denton",
+    "zip": "76210",
+    "theater_name": "Cinemark Denton 14",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517328437,
+    "date": "2025-09-24+21:25",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Denton",
+    "zip": "76210",
+    "theater_name": "Cinemark Denton 14",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517328439,
+    "date": "2025-09-24+21:40",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Denton",
+    "zip": "76210",
+    "theater_name": "Cinemark Denton 14",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517328440,
+    "date": "2025-09-24+22:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Pflugerville",
+    "zip": "78660",
+    "theater_name": "Cinemark Stone Hill Town Center",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517342911,
+    "date": "2025-09-24+11:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Houston",
+    "zip": "77024",
+    "theater_name": "Cinemark Memorial City",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517328711,
+    "date": "2025-09-24+11:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Roseville",
+    "zip": "95678",
+    "theater_name": "Cinemark Roseville Galleria Mall and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517343702,
+    "date": "2025-09-24+11:05",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
   }
 ]
