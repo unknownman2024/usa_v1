@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-25 03:54:30 AM",
+  "last_updated": "2025-09-25 04:55:49 AM",
   "errors": [
     {
       "state": "MA",
@@ -43375,6 +43375,111 @@
       "chainCode": "HRKN",
       "showtime_id": 517475428,
       "date": "2025-09-24+20:05",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Hoover",
+      "zip": "35244",
+      "theater_name": "AMC Patton Creek 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 517476450,
+      "date": "2025-09-24+18:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Grapevine",
+      "zip": "76051",
+      "theater_name": "Cinemark Tinseltown Grapevine and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517479022,
+      "date": "2025-09-24+21:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Grapevine",
+      "zip": "76051",
+      "theater_name": "Cinemark Tinseltown Grapevine and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517479023,
+      "date": "2025-09-24+22:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Chandler",
+      "zip": "85226",
+      "theater_name": "Harkins Chandler Fashion 20",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 517479245,
+      "date": "2025-09-24+18:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Chandler",
+      "zip": "85226",
+      "theater_name": "Harkins Chandler Fashion 20",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 517479244,
+      "date": "2025-09-24+21:50",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fremont",
+      "zip": "94538",
+      "theater_name": "Cinemark Century at Pacific Commons and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517480738,
+      "date": "2025-09-24+21:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Redmond",
+      "zip": "98052",
+      "theater_name": "Regal Bella Bottega",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 517479995,
+      "date": "2025-09-24+20:00",
       "format": "Standard",
       "language": "Telugu",
       "error": {
