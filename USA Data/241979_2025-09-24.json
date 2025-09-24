@@ -42613,5 +42613,470 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "VA",
+    "city": "Christiansburg",
+    "zip": "24073",
+    "theater_name": "Regal New River Valley & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517469540,
+    "date": "2025-09-24+18:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TN",
+    "city": "Collierville",
+    "zip": "38017",
+    "theater_name": "Malco Collierville Cinema Grill & MXT",
+    "chainName": "Malco Theatres 2",
+    "chainCode": "MALCO",
+    "showtime_id": 517393929,
+    "date": "2025-09-24+16:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TN",
+    "city": "Collierville",
+    "zip": "38017",
+    "theater_name": "Malco Collierville Cinema Grill & MXT",
+    "chainName": "Malco Theatres 2",
+    "chainCode": "MALCO",
+    "showtime_id": 517393930,
+    "date": "2025-09-24+19:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MN",
+    "city": "Eden Prairie",
+    "zip": "55344",
+    "theater_name": "AMC Eden Prairie Mall 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 517465586,
+    "date": "2025-09-24+17:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MN",
+    "city": "Eden Prairie",
+    "zip": "55344",
+    "theater_name": "AMC Eden Prairie Mall 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 517465585,
+    "date": "2025-09-24+21:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Bolingbrook",
+    "zip": "60440",
+    "theater_name": "Regal Bolingbrook",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517472527,
+    "date": "2025-09-24+19:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "KS",
+    "city": "Leawood",
+    "zip": "66211",
+    "theater_name": "AMC Town Center 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 517468030,
+    "date": "2025-09-24+21:20",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "KS",
+    "city": "Leawood",
+    "zip": "66211",
+    "theater_name": "AMC Town Center 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 517468029,
+    "date": "2025-09-24+21:45",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "KS",
+    "city": "Leawood",
+    "zip": "66211",
+    "theater_name": "AMC Town Center 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 517468031,
+    "date": "2025-09-24+21:55",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Lewisville",
+    "zip": "75067",
+    "theater_name": "Cinemark Lewisville and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517470368,
+    "date": "2025-09-24+20:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Lewisville",
+    "zip": "75067",
+    "theater_name": "Cinemark Lewisville and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517470369,
+    "date": "2025-09-24+21:40",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Lewisville",
+    "zip": "75067",
+    "theater_name": "Cinemark Lewisville and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517470371,
+    "date": "2025-09-24+22:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Lewisville",
+    "zip": "75067",
+    "theater_name": "Cinemark Lewisville and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517470370,
+    "date": "2025-09-24+23:45",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "The Colony",
+    "zip": "75056",
+    "theater_name": "Galaxy Grandscape",
+    "chainName": "Galaxy Theatres",
+    "chainCode": "GLXY",
+    "showtime_id": 517468136,
+    "date": "2025-09-24+18:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "The Colony",
+    "zip": "75056",
+    "theater_name": "Galaxy Grandscape",
+    "chainName": "Galaxy Theatres",
+    "chainCode": "GLXY",
+    "showtime_id": 517468135,
+    "date": "2025-09-24+20:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "The Colony",
+    "zip": "75056",
+    "theater_name": "Galaxy Grandscape",
+    "chainName": "Galaxy Theatres",
+    "chainCode": "GLXY",
+    "showtime_id": 517468137,
+    "date": "2025-09-24+22:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Frisco",
+    "zip": "75033",
+    "theater_name": "CUT! by Cinemark Frisco - Dine-in Theatre, Kitchen",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517465659,
+    "date": "2025-09-24+21:45",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Pflugerville",
+    "zip": "78660",
+    "theater_name": "Cinemark Pflugerville 20 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517473570,
+    "date": "2025-09-25+01:40",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Sugar Land",
+    "zip": "77479",
+    "theater_name": "AMC First Colony 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 517465516,
+    "date": "2025-09-24+22:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "AZ",
+    "city": "Phoenix",
+    "zip": "85054",
+    "theater_name": "Harkins Scottsdale 101",
+    "chainName": "Harkins Theatres",
+    "chainCode": "HRKN",
+    "showtime_id": 517471528,
+    "date": "2025-09-24+16:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "AZ",
+    "city": "Phoenix",
+    "zip": "85054",
+    "theater_name": "Harkins Scottsdale 101",
+    "chainName": "Harkins Theatres",
+    "chainCode": "HRKN",
+    "showtime_id": 517471529,
+    "date": "2025-09-24+20:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "San Diego",
+    "zip": "92126",
+    "theater_name": "Regal Edwards Mira Mesa 4DX, IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517470300,
+    "date": "2025-09-24+17:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "San Diego",
+    "zip": "92126",
+    "theater_name": "Regal Edwards Mira Mesa 4DX, IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517470299,
+    "date": "2025-09-24+17:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "San Diego",
+    "zip": "92126",
+    "theater_name": "Regal Edwards Mira Mesa 4DX, IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517470301,
+    "date": "2025-09-24+20:45",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "San Diego",
+    "zip": "92126",
+    "theater_name": "Regal Edwards Mira Mesa 4DX, IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517470302,
+    "date": "2025-09-24+21:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Milpitas",
+    "zip": "95035",
+    "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517470304,
+    "date": "2025-09-24+18:40",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Milpitas",
+    "zip": "95035",
+    "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517470303,
+    "date": "2025-09-24+20:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Milpitas",
+    "zip": "95035",
+    "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517470305,
+    "date": "2025-09-24+22:20",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Mountain View",
+    "zip": "94043",
+    "theater_name": "Cinemark Century Mountain View 16",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517471734,
+    "date": "2025-09-24+22:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Fremont",
+    "zip": "94538",
+    "theater_name": "Cin\u00e9 Lounge Fremont 7",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 517468203,
+    "date": "2025-09-24+11:40",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Fremont",
+    "zip": "94538",
+    "theater_name": "Cin\u00e9 Lounge Fremont 7",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 517468202,
+    "date": "2025-09-24+15:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
   }
 ]
