@@ -40963,5 +40963,50 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "OH",
+    "city": "West Carrollton",
+    "zip": "45449",
+    "theater_name": "Cinemark Dayton South 16 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517405112,
+    "date": "2025-09-24+12:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "OH",
+    "city": "West Carrollton",
+    "zip": "45449",
+    "theater_name": "Cinemark Dayton South 16 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517405113,
+    "date": "2025-09-24+21:55",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Bee Cave",
+    "zip": "78738",
+    "theater_name": "Cinemark Hill Country Galleria",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517404845,
+    "date": "2025-09-24+12:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
   }
 ]
