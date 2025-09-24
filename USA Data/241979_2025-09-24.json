@@ -42118,5 +42118,500 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "DE",
+    "city": "Christiana",
+    "zip": "19702",
+    "theater_name": "Cinemark Christiana and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517459964,
+    "date": "2025-09-24+15:10",
+    "format": "XD",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "DE",
+    "city": "Christiana",
+    "zip": "19702",
+    "theater_name": "Cinemark Christiana and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517459968,
+    "date": "2025-09-24+18:45",
+    "format": "XD",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "DE",
+    "city": "Christiana",
+    "zip": "19702",
+    "theater_name": "Cinemark Christiana and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517459965,
+    "date": "2025-09-24+15:35",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "DE",
+    "city": "Christiana",
+    "zip": "19702",
+    "theater_name": "Cinemark Christiana and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517459966,
+    "date": "2025-09-24+20:45",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NY",
+    "city": "Westbury",
+    "zip": "11590",
+    "theater_name": "Regal Westbury IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517457221,
+    "date": "2025-09-24+21:10",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NY",
+    "city": "Westbury",
+    "zip": "11590",
+    "theater_name": "Regal Westbury IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517457222,
+    "date": "2025-09-24+22:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "OH",
+    "city": "Youngstown",
+    "zip": "44512",
+    "theater_name": "Regal Cinema South",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517464811,
+    "date": "2025-09-24+18:20",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MD",
+    "city": "Rockville",
+    "zip": "20850",
+    "theater_name": "Regal Rockville Center",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517460256,
+    "date": "2025-09-24+16:10",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MD",
+    "city": "Rockville",
+    "zip": "20850",
+    "theater_name": "Regal Rockville Center",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517460255,
+    "date": "2025-09-24+20:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Ashburn",
+    "zip": "20148",
+    "theater_name": "Regal Fox 4DX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517462428,
+    "date": "2025-09-24+21:10",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Ashburn",
+    "zip": "20148",
+    "theater_name": "Regal Fox 4DX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517462427,
+    "date": "2025-09-24+22:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NC",
+    "city": "Charlotte",
+    "zip": "28273",
+    "theater_name": "AMC Carolina Pavilion 22",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 517463314,
+    "date": "2025-09-24+19:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Atlanta",
+    "zip": "30328",
+    "theater_name": "The Springs Cinema & Taphouse",
+    "chainName": "The Spring Cinemas and Taphouse",
+    "chainCode": "SPCT",
+    "showtime_id": 517461266,
+    "date": "2025-09-24+22:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Tallahassee",
+    "zip": "32303",
+    "theater_name": "AMC Tallahassee 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 517458500,
+    "date": "2025-09-24+19:45",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Lakeland",
+    "zip": "33809",
+    "theater_name": "Cinemark Lakeland Square Mall and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517464542,
+    "date": "2025-09-24+19:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Port Richey",
+    "zip": "34668",
+    "theater_name": "Regal Hollywood - Port Richey",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517459414,
+    "date": "2025-09-24+21:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "AL",
+    "city": "Birmingham",
+    "zip": "35235",
+    "theater_name": "Regal Trussville",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517457219,
+    "date": "2025-09-24+16:50",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "AL",
+    "city": "Birmingham",
+    "zip": "35235",
+    "theater_name": "Regal Trussville",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517460240,
+    "date": "2025-09-24+18:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Chicago",
+    "zip": "60611",
+    "theater_name": "AMC River East 21",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 517463324,
+    "date": "2025-09-24+19:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Chicago",
+    "zip": "60611",
+    "theater_name": "AMC River East 21",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 517463325,
+    "date": "2025-09-24+21:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Chicago",
+    "zip": "60611",
+    "theater_name": "AMC River East 21",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 517463323,
+    "date": "2025-09-24+22:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Warrenville",
+    "zip": "60555",
+    "theater_name": "Phoenix Theatres Cantera Warrenville 17 + PTX",
+    "chainName": "Phoenix Theatres",
+    "chainCode": "PHNX",
+    "showtime_id": 517462540,
+    "date": "2025-09-24+15:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Warrenville",
+    "zip": "60555",
+    "theater_name": "Phoenix Theatres Cantera Warrenville 17 + PTX",
+    "chainName": "Phoenix Theatres",
+    "chainCode": "PHNX",
+    "showtime_id": 517462541,
+    "date": "2025-09-24+19:35",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Woodridge",
+    "zip": "60517",
+    "theater_name": "Cinemark Seven Bridges and IMAX",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517459845,
+    "date": "2025-09-24+12:05",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "KS",
+    "city": "Olathe",
+    "zip": "66062",
+    "theater_name": "AMC DINE-IN Studio 28",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 517458501,
+    "date": "2025-09-24+21:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Round Rock",
+    "zip": "78664",
+    "theater_name": "Cinemark Round Rock 14",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517458006,
+    "date": "2025-09-24+13:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Pflugerville",
+    "zip": "78660",
+    "theater_name": "Cinemark Pflugerville 20 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517464682,
+    "date": "2025-09-24+22:10",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Stafford",
+    "zip": "77477",
+    "theater_name": "AMC Loews Fountains 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 517463310,
+    "date": "2025-09-24+20:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Sugar Land",
+    "zip": "77479",
+    "theater_name": "AMC First Colony 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 517456206,
+    "date": "2025-09-24+21:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "AZ",
+    "city": "Tempe",
+    "zip": "85282",
+    "theater_name": "Harkins Arizona Mills and IMAX",
+    "chainName": "Harkins Theatres",
+    "chainCode": "HRKN",
+    "showtime_id": 517464506,
+    "date": "2025-09-24+16:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "AZ",
+    "city": "Tempe",
+    "zip": "85282",
+    "theater_name": "Harkins Arizona Mills and IMAX",
+    "chainName": "Harkins Theatres",
+    "chainCode": "HRKN",
+    "showtime_id": 517464505,
+    "date": "2025-09-24+20:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Fremont",
+    "zip": "94538",
+    "theater_name": "Cin\u00e9 Lounge Fremont 7",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 517461011,
+    "date": "2025-09-24+12:20",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Fremont",
+    "zip": "94538",
+    "theater_name": "Cin\u00e9 Lounge Fremont 7",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 517461010,
+    "date": "2025-09-24+16:10",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
   }
 ]
