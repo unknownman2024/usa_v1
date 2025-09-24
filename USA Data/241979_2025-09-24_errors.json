@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-25 02:53:25 AM",
+  "last_updated": "2025-09-25 03:54:30 AM",
   "errors": [
     {
       "state": "MA",
@@ -43240,6 +43240,141 @@
       "chainCode": "GLXY",
       "showtime_id": 517470453,
       "date": "2025-09-24+23:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AL",
+      "city": "Decatur",
+      "zip": "35601",
+      "theater_name": "AMC CLASSIC Decatur 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 517475894,
+      "date": "2025-09-24+19:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Willoughby",
+      "zip": "44094",
+      "theater_name": "Regal Willoughby Commons",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 517476444,
+      "date": "2025-09-24+19:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Springfield",
+      "zip": "62711",
+      "theater_name": "AMC Springfield 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 517474438,
+      "date": "2025-09-24+19:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Phoenix",
+      "zip": "85085",
+      "theater_name": "Harkins Norterra 14",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 517475095,
+      "date": "2025-09-24+18:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tempe",
+      "zip": "85282",
+      "theater_name": "Harkins Arizona Mills and IMAX",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 517475522,
+      "date": "2025-09-24+19:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tempe",
+      "zip": "85282",
+      "theater_name": "Harkins Arizona Mills and IMAX",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 517475523,
+      "date": "2025-09-24+21:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tempe",
+      "zip": "85281",
+      "theater_name": "Harkins Tempe Marketplace 16",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 516539322,
+      "date": "2025-09-24+16:35",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tempe",
+      "zip": "85281",
+      "theater_name": "Harkins Tempe Marketplace 16",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 517475430,
+      "date": "2025-09-24+17:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "AZ",
+      "city": "Tempe",
+      "zip": "85281",
+      "theater_name": "Harkins Tempe Marketplace 16",
+      "chainName": "Harkins Theatres",
+      "chainCode": "HRKN",
+      "showtime_id": 517475428,
+      "date": "2025-09-24+20:05",
       "format": "Standard",
       "language": "Telugu",
       "error": {
