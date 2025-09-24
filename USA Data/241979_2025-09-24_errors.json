@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-24 07:54:30 PM",
+  "last_updated": "2025-09-24 08:57:42 PM",
   "errors": [
     {
       "state": "MA",
@@ -41035,6 +41035,21 @@
       "chainCode": "RTSIND",
       "showtime_id": 517407227,
       "date": "2025-09-24+22:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Sappington",
+      "zip": "63126",
+      "theater_name": "Marcus Ronnie's Cinema + IMAX  ",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 517409436,
+      "date": "2025-09-24+17:30",
       "format": "Standard",
       "language": "Telugu",
       "error": {
