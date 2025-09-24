@@ -43078,5 +43078,170 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "NJ",
+    "city": "Secaucus",
+    "zip": "07094",
+    "theater_name": "Regal Secaucus ShowPlace 14",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517473890,
+    "date": "2025-09-24+20:45",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "DE",
+    "city": "Newark",
+    "zip": "19702",
+    "theater_name": "Regal Peoples Plaza",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517471865,
+    "date": "2025-09-24+16:20",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "DE",
+    "city": "Newark",
+    "zip": "19702",
+    "theater_name": "Regal Peoples Plaza",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517471866,
+    "date": "2025-09-24+20:20",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NC",
+    "city": "Raleigh",
+    "zip": "27617",
+    "theater_name": "Regal Brier Creek",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517470945,
+    "date": "2025-09-24+19:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Gainesville",
+    "zip": "32608",
+    "theater_name": "Regal Butler Town Center",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517471542,
+    "date": "2025-09-24+17:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Gainesville",
+    "zip": "32608",
+    "theater_name": "Regal Butler Town Center",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517471543,
+    "date": "2025-09-24+20:35",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Orlando",
+    "zip": "32819",
+    "theater_name": "Cinemark Orlando and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517471731,
+    "date": "2025-09-24+21:45",
+    "format": "XD",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "AL",
+    "city": "Mobile",
+    "zip": "36695",
+    "theater_name": "AMC Mobile 16",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 517472479,
+    "date": "2025-09-24+19:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TN",
+    "city": "Collierville",
+    "zip": "38017",
+    "theater_name": "Malco Collierville Cinema Grill & MXT",
+    "chainName": "Malco Theatres 2",
+    "chainCode": "MALCO",
+    "showtime_id": 517471212,
+    "date": "2025-09-24+19:20",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MS",
+    "city": "Madison",
+    "zip": "39110",
+    "theater_name": "Malco Grandview Cinema",
+    "chainName": "Malco Theatres 2",
+    "chainCode": "MALCO",
+    "showtime_id": 517473259,
+    "date": "2025-09-24+19:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "The Colony",
+    "zip": "75056",
+    "theater_name": "Galaxy Grandscape",
+    "chainName": "Galaxy Theatres",
+    "chainCode": "GLXY",
+    "showtime_id": 517470453,
+    "date": "2025-09-24+23:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
   }
 ]
