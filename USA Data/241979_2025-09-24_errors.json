@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-24 10:02:07 PM",
+  "last_updated": "2025-09-24 10:54:06 PM",
   "errors": [
     {
       "state": "MA",
@@ -42040,6 +42040,81 @@
       "chainCode": "CNMK",
       "showtime_id": 517412803,
       "date": "2025-09-24+18:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CT",
+      "city": "Hartford",
+      "zip": "06106",
+      "theater_name": "Apple Cinemas Xtreme Hartford",
+      "chainName": "Apple Cinemas",
+      "chainCode": "APPL",
+      "showtime_id": 517455472,
+      "date": "2025-09-24+18:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Raleigh",
+      "zip": "27613",
+      "theater_name": "Cinemark Bistro Raleigh",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517455107,
+      "date": "2025-09-24+19:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Raleigh",
+      "zip": "27613",
+      "theater_name": "Cinemark Bistro Raleigh",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517455108,
+      "date": "2025-09-24+22:05",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Charlotte",
+      "zip": "28270",
+      "theater_name": "Cinemark Bistro Charlotte",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517455084,
+      "date": "2025-09-24+17:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Charlotte",
+      "zip": "28270",
+      "theater_name": "Cinemark Bistro Charlotte",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517455085,
+      "date": "2025-09-24+21:05",
       "format": "Standard",
       "language": "Telugu",
       "error": {
