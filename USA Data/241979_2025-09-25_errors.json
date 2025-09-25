@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-25 12:58:01 PM",
+  "last_updated": "2025-09-25 02:03:48 PM",
   "errors": [
     {
       "state": "MA",
@@ -21880,6 +21880,201 @@
       "chainCode": "CNMK",
       "showtime_id": 517416189,
       "date": "2025-09-25+21:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Durham",
+      "zip": "27713",
+      "theater_name": "AMC Southpoint 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 517091720,
+      "date": "2025-09-25+13:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Durham",
+      "zip": "27713",
+      "theater_name": "AMC Southpoint 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 515793194,
+      "date": "2025-09-25+16:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Durham",
+      "zip": "27713",
+      "theater_name": "AMC Southpoint 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 514193718,
+      "date": "2025-09-25+18:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Durham",
+      "zip": "27713",
+      "theater_name": "AMC Southpoint 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 517451391,
+      "date": "2025-09-25+20:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Durham",
+      "zip": "27713",
+      "theater_name": "AMC Southpoint 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 516824127,
+      "date": "2025-09-25+21:50",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OK",
+      "city": "Stillwater",
+      "zip": "74074",
+      "theater_name": "AMC Stillwater 10",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 514396321,
+      "date": "2025-09-25+20:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Arlington",
+      "zip": "76015",
+      "theater_name": "AMC The Parks At Arlington 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 517443407,
+      "date": "2025-09-25+15:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Arlington",
+      "zip": "76015",
+      "theater_name": "AMC The Parks At Arlington 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 517443408,
+      "date": "2025-09-25+19:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Lufkin",
+      "zip": "75901",
+      "theater_name": "Cinemark Lufkin",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517222260,
+      "date": "2025-09-25+19:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Sheridan",
+      "zip": "80110",
+      "theater_name": "Regal River Point & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 514081465,
+      "date": "2025-09-25+11:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Sheridan",
+      "zip": "80110",
+      "theater_name": "Regal River Point & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 514081464,
+      "date": "2025-09-25+14:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Sheridan",
+      "zip": "80110",
+      "theater_name": "Regal River Point & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 514081466,
+      "date": "2025-09-25+18:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CO",
+      "city": "Sheridan",
+      "zip": "80110",
+      "theater_name": "Regal River Point & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 514081467,
+      "date": "2025-09-25+22:00",
       "format": "Standard",
       "language": "Telugu",
       "error": {
