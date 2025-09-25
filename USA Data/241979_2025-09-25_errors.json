@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-26 03:52:57 AM",
+  "last_updated": "2025-09-26 04:53:38 AM",
   "errors": [
     {
       "state": "MA",
@@ -23140,6 +23140,66 @@
       "chainCode": "CNMK",
       "showtime_id": 517512413,
       "date": "2025-09-25+19:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MA",
+      "city": "Marlborough",
+      "zip": "01752",
+      "theater_name": "Regal Solomon Pond",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 517024608,
+      "date": "2025-09-25+20:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33634",
+      "theater_name": "AMC Veterans 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 517502853,
+      "date": "2025-09-25+22:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Lewisville",
+      "zip": "75067",
+      "theater_name": "Cinemark Lewisville and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517514193,
+      "date": "2025-09-25+22:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Beaverton",
+      "zip": "97005",
+      "theater_name": "Cinemark Cedar Hills 16",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517516625,
+      "date": "2025-09-25+20:10",
       "format": "Standard",
       "language": "Telugu",
       "error": {
