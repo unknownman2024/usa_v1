@@ -43693,5 +43693,20 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "CA",
+    "city": "Fremont",
+    "zip": "94538",
+    "theater_name": "Cin\u00e9 Lounge Fremont 7",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 517488497,
+    "date": "2025-09-24+23:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
   }
 ]

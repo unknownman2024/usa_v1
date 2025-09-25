@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-25 07:18:14 AM",
+  "last_updated": "2025-09-25 08:37:23 AM",
   "errors": [
     {
       "state": "MA",
@@ -43690,6 +43690,21 @@
       "chainCode": "CNMK",
       "showtime_id": 517482312,
       "date": "2025-09-24+21:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Fremont",
+      "zip": "94538",
+      "theater_name": "Ciné Lounge Fremont 7",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 517488497,
+      "date": "2025-09-24+23:15",
       "format": "Standard",
       "language": "Telugu",
       "error": {
