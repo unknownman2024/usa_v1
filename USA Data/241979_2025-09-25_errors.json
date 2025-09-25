@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-25 08:57:28 PM",
+  "last_updated": "2025-09-25 10:02:44 PM",
   "errors": [
     {
       "state": "MA",
@@ -22195,6 +22195,246 @@
       "chainCode": "REGL",
       "showtime_id": 514035156,
       "date": "2025-09-25+19:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Roswell",
+      "zip": "30075",
+      "theater_name": "Movie Tavern Roswell",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 516999910,
+      "date": "2025-09-25+16:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "GA",
+      "city": "Roswell",
+      "zip": "30075",
+      "theater_name": "Movie Tavern Roswell",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 516999909,
+      "date": "2025-09-25+20:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Gainesville",
+      "zip": "32608",
+      "theater_name": "Regal Butler Town Center",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 517494672,
+      "date": "2025-09-25+13:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Gainesville",
+      "zip": "32608",
+      "theater_name": "Regal Butler Town Center",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 517494673,
+      "date": "2025-09-25+16:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Gainesville",
+      "zip": "32608",
+      "theater_name": "Regal Butler Town Center",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 517494674,
+      "date": "2025-09-25+20:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Saint Charles",
+      "zip": "63303",
+      "theater_name": "Marcus St. Charles Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 517494565,
+      "date": "2025-09-25+19:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Saint Charles",
+      "zip": "63303",
+      "theater_name": "Marcus St. Charles Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 517494564,
+      "date": "2025-09-25+20:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Saint Charles",
+      "zip": "63303",
+      "theater_name": "Marcus St. Charles Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 517494563,
+      "date": "2025-09-25+20:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Saint Charles",
+      "zip": "63303",
+      "theater_name": "Marcus St. Charles Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 517494566,
+      "date": "2025-09-25+21:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Plano",
+      "zip": "75093",
+      "theater_name": "Cinemark West Plano and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517495897,
+      "date": "2025-09-25+20:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Plano",
+      "zip": "75093",
+      "theater_name": "Cinemark West Plano and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517495898,
+      "date": "2025-09-25+21:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "Cinemark Frisco Square and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517495881,
+      "date": "2025-09-25+18:55",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Roanoke",
+      "zip": "76262",
+      "theater_name": "Cinemark Roanoke and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517495793,
+      "date": "2025-09-25+19:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Denton",
+      "zip": "76210",
+      "theater_name": "Cinemark Denton 14",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517495892,
+      "date": "2025-09-25+21:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517496121,
+      "date": "2025-09-25+17:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Katy",
+      "zip": "77449",
+      "theater_name": "Cinemark Katy and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517496120,
+      "date": "2025-09-25+21:10",
       "format": "Standard",
       "language": "Telugu",
       "error": {
