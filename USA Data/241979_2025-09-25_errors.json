@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-25 07:56:45 PM",
+  "last_updated": "2025-09-25 08:57:28 PM",
   "errors": [
     {
       "state": "MA",
@@ -22090,6 +22090,111 @@
       "chainCode": "CNMK",
       "showtime_id": 517493250,
       "date": "2025-09-25+19:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "DE",
+      "city": "Christiana",
+      "zip": "19702",
+      "theater_name": "Cinemark Christiana and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517493613,
+      "date": "2025-09-25+21:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Pittsburgh",
+      "zip": "15205",
+      "theater_name": "Cinemark Robinson Township and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517493611,
+      "date": "2025-09-25+21:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Bowling Green",
+      "zip": "42101",
+      "theater_name": "Regal Bowling Green",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 514089627,
+      "date": "2025-09-25+12:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Bowling Green",
+      "zip": "42101",
+      "theater_name": "Regal Bowling Green",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 514089628,
+      "date": "2025-09-25+16:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "KY",
+      "city": "Bowling Green",
+      "zip": "42101",
+      "theater_name": "Regal Bowling Green",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 514089629,
+      "date": "2025-09-25+20:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Akron",
+      "zip": "44310",
+      "theater_name": "Regal Independence",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 514035155,
+      "date": "2025-09-25+15:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OH",
+      "city": "Akron",
+      "zip": "44310",
+      "theater_name": "Regal Independence",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 514035156,
+      "date": "2025-09-25+19:00",
       "format": "Standard",
       "language": "Telugu",
       "error": {
