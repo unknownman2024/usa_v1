@@ -22438,5 +22438,335 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "CT",
+    "city": "Milford",
+    "zip": "06460",
+    "theater_name": "Cinemark Connecticut Post 14 and IMAX",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517497487,
+    "date": "2025-09-25+19:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CT",
+    "city": "Milford",
+    "zip": "06460",
+    "theater_name": "Cinemark Connecticut Post 14 and IMAX",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517497486,
+    "date": "2025-09-25+22:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NJ",
+    "city": "Secaucus",
+    "zip": "07094",
+    "theater_name": "Regal Secaucus ShowPlace 14",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517497511,
+    "date": "2025-09-25+20:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NJ",
+    "city": "Secaucus",
+    "zip": "07094",
+    "theater_name": "Regal Secaucus ShowPlace 14",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517497514,
+    "date": "2025-09-25+21:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "DE",
+    "city": "Newark",
+    "zip": "19702",
+    "theater_name": "Regal Peoples Plaza",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517501979,
+    "date": "2025-09-25+20:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NY",
+    "city": "Buffalo",
+    "zip": "14207",
+    "theater_name": "Regal Elmwood Center",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517499342,
+    "date": "2025-09-25+19:25",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Fairfax",
+    "zip": "22030",
+    "theater_name": "Cinemark Fairfax Corner and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517497490,
+    "date": "2025-09-25+20:25",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Lake Buena Vista",
+    "zip": "32830",
+    "theater_name": "AMC DINE-IN Disney Springs\u2122 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 516375544,
+    "date": "2025-09-25+18:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "AL",
+    "city": "Birmingham",
+    "zip": "35243",
+    "theater_name": "AMC Summit 16",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 517497130,
+    "date": "2025-09-25+21:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "OH",
+    "city": "West Carrollton",
+    "zip": "45449",
+    "theater_name": "Cinemark Dayton South 16 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517501612,
+    "date": "2025-09-25+21:35",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "OH",
+    "city": "West Carrollton",
+    "zip": "45449",
+    "theater_name": "Cinemark Dayton South 16 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517501613,
+    "date": "2025-09-25+22:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "OH",
+    "city": "West Carrollton",
+    "zip": "45449",
+    "theater_name": "Cinemark Dayton South 16 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517501614,
+    "date": "2025-09-25+22:25",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Round Rock",
+    "zip": "78664",
+    "theater_name": "Cinemark Round Rock 14",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517502397,
+    "date": "2025-09-25+20:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Pflugerville",
+    "zip": "78660",
+    "theater_name": "Cinemark Pflugerville 20 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517499285,
+    "date": "2025-09-25+21:35",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "College Station",
+    "zip": "77845",
+    "theater_name": "Cinemark College Station and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517502585,
+    "date": "2025-09-25+21:45",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "UT",
+    "city": "West Jordan",
+    "zip": "84084",
+    "theater_name": "Cinemark Jordan Landing 24 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517498547,
+    "date": "2025-09-25+17:50",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "AZ",
+    "city": "Tempe",
+    "zip": "85281",
+    "theater_name": "Harkins Tempe Marketplace 16",
+    "chainName": "Harkins Theatres",
+    "chainCode": "HRKN",
+    "showtime_id": 517498865,
+    "date": "2025-09-25+22:05",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "San Marcos",
+    "zip": "92069",
+    "theater_name": "Regal Edwards San Marcos",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517498988,
+    "date": "2025-09-25+12:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "San Marcos",
+    "zip": "92069",
+    "theater_name": "Regal Edwards San Marcos",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517498989,
+    "date": "2025-09-25+16:30",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "San Marcos",
+    "zip": "92069",
+    "theater_name": "Regal Edwards San Marcos",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517498990,
+    "date": "2025-09-25+20:10",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Kirkland",
+    "zip": "98034",
+    "theater_name": "Cinemark Totem Lake Kirkland and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517502273,
+    "date": "2025-09-25+20:35",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Kirkland",
+    "zip": "98034",
+    "theater_name": "Cinemark Totem Lake Kirkland and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517502274,
+    "date": "2025-09-25+21:45",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
   }
 ]
