@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-25 08:37:23 AM",
+  "last_updated": "2025-09-25 10:01:05 AM",
   "errors": [
     {
       "state": "MA",
@@ -43705,6 +43705,21 @@
       "chainCode": "RTSIND",
       "showtime_id": 517488497,
       "date": "2025-09-24+23:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tampa",
+      "zip": "33634",
+      "theater_name": "AMC Veterans 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 517489688,
+      "date": "2025-09-24+22:30",
       "format": "Standard",
       "language": "Telugu",
       "error": {
