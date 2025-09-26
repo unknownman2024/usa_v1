@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-27 12:50:38 AM",
+  "last_updated": "2025-09-27 01:56:19 AM",
   "errors": [
     {
       "state": "MA",
@@ -21145,6 +21145,51 @@
       "chainCode": "CNMK",
       "showtime_id": 517544493,
       "date": "2025-09-26+14:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "South Plainfield",
+      "zip": "07080",
+      "theater_name": "Regal Hadley Theatre",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 517551879,
+      "date": "2025-09-26+20:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517549457,
+      "date": "2025-09-26+14:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Union City",
+      "zip": "94587",
+      "theater_name": "Cinemark Century Union Landing 25 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517549910,
+      "date": "2025-09-26+18:55",
       "format": "Standard",
       "language": "Telugu",
       "error": {
