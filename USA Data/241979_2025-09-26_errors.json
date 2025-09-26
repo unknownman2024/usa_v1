@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-27 02:51:38 AM",
+  "last_updated": "2025-09-27 03:53:40 AM",
   "errors": [
     {
       "state": "MA",
@@ -21295,6 +21295,81 @@
       "chainCode": "CNMK",
       "showtime_id": 517561675,
       "date": "2025-09-26+22:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Frederick",
+      "zip": "21704",
+      "theater_name": "Regal Westview & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 517567887,
+      "date": "2025-09-26+20:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Raleigh",
+      "zip": "27613",
+      "theater_name": "Cinemark Bistro Raleigh",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517574064,
+      "date": "2025-09-26+22:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Davie",
+      "zip": "33331",
+      "theater_name": "Cinemark Paradise 24 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517569991,
+      "date": "2025-09-26+23:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OH",
+      "city": "West Carrollton",
+      "zip": "45449",
+      "theater_name": "Cinemark Dayton South 16 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517569856,
+      "date": "2025-09-26+12:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Pflugerville",
+      "zip": "78660",
+      "theater_name": "Cinemark Pflugerville 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517566415,
+      "date": "2025-09-26+20:45",
       "format": "Standard",
       "language": "Telugu",
       "error": {
