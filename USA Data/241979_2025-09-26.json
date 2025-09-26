@@ -20683,5 +20683,20 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "OR",
+    "city": "Beaverton",
+    "zip": "97005",
+    "theater_name": "Cinemark Cedar Hills 16",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517532901,
+    "date": "2025-09-26+22:20",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
   }
 ]

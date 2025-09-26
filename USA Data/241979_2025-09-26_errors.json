@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-26 06:18:56 PM",
+  "last_updated": "2025-09-26 07:04:15 PM",
   "errors": [
     {
       "state": "MA",
@@ -20680,6 +20680,21 @@
       "chainCode": "CNMK",
       "showtime_id": 517532878,
       "date": "2025-09-26+21:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Beaverton",
+      "zip": "97005",
+      "theater_name": "Cinemark Cedar Hills 16",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517532901,
+      "date": "2025-09-26+22:20",
       "format": "Standard",
       "language": "Telugu",
       "error": {
