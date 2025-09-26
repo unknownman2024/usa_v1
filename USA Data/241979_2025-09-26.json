@@ -20773,5 +20773,170 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "NY",
+    "city": "Buffalo",
+    "zip": "14207",
+    "theater_name": "Regal Elmwood Center",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517535171,
+    "date": "2025-09-26+16:35",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NY",
+    "city": "Buffalo",
+    "zip": "14207",
+    "theater_name": "Regal Elmwood Center",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517535172,
+    "date": "2025-09-26+20:50",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Duluth",
+    "zip": "30097",
+    "theater_name": "Regal Medlock Crossing & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517537507,
+    "date": "2025-09-26+18:25",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Duluth",
+    "zip": "30097",
+    "theater_name": "Regal Medlock Crossing & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517537508,
+    "date": "2025-09-26+22:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "AL",
+    "city": "Montgomery",
+    "zip": "36117",
+    "theater_name": "AMC Chantilly 13",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 517534818,
+    "date": "2025-09-26+15:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "OH",
+    "city": "Valley View",
+    "zip": "44125",
+    "theater_name": "Cinemark Valley View and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517538967,
+    "date": "2025-09-26+18:05",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MO",
+    "city": "Saint Charles",
+    "zip": "63303",
+    "theater_name": "Marcus St. Charles Cinema",
+    "chainName": "Marcus Theatres",
+    "chainCode": "MRCS",
+    "showtime_id": 517535457,
+    "date": "2025-09-26+21:20",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MO",
+    "city": "Saint Charles",
+    "zip": "63303",
+    "theater_name": "Marcus St. Charles Cinema",
+    "chainName": "Marcus Theatres",
+    "chainCode": "MRCS",
+    "showtime_id": 517535458,
+    "date": "2025-09-26+21:40",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Plano",
+    "zip": "75025",
+    "theater_name": "Cinemark Legacy and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517539817,
+    "date": "2025-09-26+15:20",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Milpitas",
+    "zip": "95035",
+    "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517535561,
+    "date": "2025-09-26+21:35",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Kirkland",
+    "zip": "98034",
+    "theater_name": "Cinemark Totem Lake Kirkland and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517536924,
+    "date": "2025-09-26+22:10",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
   }
 ]
