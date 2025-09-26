@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-26 12:55:27 PM",
+  "last_updated": "2025-09-26 02:03:24 PM",
   "errors": [
     {
       "state": "MA",
@@ -20575,6 +20575,81 @@
       "chainCode": "CNMK",
       "showtime_id": 517362593,
       "date": "2025-09-26+22:05",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Fayetteville",
+      "zip": "28314",
+      "theater_name": "AMC Market Fair 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 517102550,
+      "date": "2025-09-26+18:50",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Fayetteville",
+      "zip": "28314",
+      "theater_name": "AMC Market Fair 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 517102551,
+      "date": "2025-09-26+22:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Fayetteville",
+      "zip": "28314",
+      "theater_name": "AMC Market Fair 15",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 517102552,
+      "date": "2025-09-26+15:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Corvallis",
+      "zip": "97330",
+      "theater_name": "AMC CLASSIC Corvallis 12",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 517531059,
+      "date": "2025-09-26+22:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "OR",
+      "city": "Medford",
+      "zip": "97501",
+      "theater_name": "Cinemark Tinseltown Medford 15",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517173171,
+      "date": "2025-09-26+21:30",
       "format": "Standard",
       "language": "Telugu",
       "error": {
