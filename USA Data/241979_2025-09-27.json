@@ -20863,5 +20863,50 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "OH",
+    "city": "West Carrollton",
+    "zip": "45449",
+    "theater_name": "Cinemark Dayton South 16 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 516954757,
+    "date": "2025-09-27+10:55",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "OH",
+    "city": "West Carrollton",
+    "zip": "45449",
+    "theater_name": "Cinemark Dayton South 16 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 516954758,
+    "date": "2025-09-27+17:50",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Kirkland",
+    "zip": "98034",
+    "theater_name": "Cinemark Totem Lake Kirkland and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517656876,
+    "date": "2025-09-27+22:50",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
   }
 ]
