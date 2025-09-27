@@ -20758,5 +20758,35 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "MD",
+    "city": "Frederick",
+    "zip": "21704",
+    "theater_name": "Regal Westview & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517646559,
+    "date": "2025-09-27+19:45",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Union City",
+    "zip": "94587",
+    "theater_name": "Cinemark Century Union Landing 25 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517646059,
+    "date": "2025-09-27+20:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
   }
 ]
