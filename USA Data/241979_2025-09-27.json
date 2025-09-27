@@ -20383,5 +20383,125 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "VA",
+    "city": "Ashburn",
+    "zip": "20147",
+    "theater_name": "AMC Loudoun Station 11",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 517452419,
+    "date": "2025-09-27+13:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Ashburn",
+    "zip": "20147",
+    "theater_name": "AMC Loudoun Station 11",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 517452418,
+    "date": "2025-09-27+17:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Ashburn",
+    "zip": "20147",
+    "theater_name": "AMC Loudoun Station 11",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 515945037,
+    "date": "2025-09-27+20:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Frisco",
+    "zip": "75034",
+    "theater_name": "AMC DINE-IN Stonebriar 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 517061973,
+    "date": "2025-09-27+12:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Frisco",
+    "zip": "75034",
+    "theater_name": "AMC DINE-IN Stonebriar 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 517061948,
+    "date": "2025-09-27+17:25",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Frisco",
+    "zip": "75034",
+    "theater_name": "AMC DINE-IN Stonebriar 24",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 517061949,
+    "date": "2025-09-27+21:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Katy",
+    "zip": "77494",
+    "theater_name": "AMC Katy Mills 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 514186282,
+    "date": "2025-09-27+18:45",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Katy",
+    "zip": "77494",
+    "theater_name": "AMC Katy Mills 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 517031670,
+    "date": "2025-09-27+22:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
   }
 ]
