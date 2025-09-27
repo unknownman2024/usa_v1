@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-27 10:50:43 PM",
+  "last_updated": "2025-09-28 12:02:33 AM",
   "errors": [
     {
       "state": "MA",
@@ -20727,6 +20727,36 @@
       "date": "2025-09-27+22:05",
       "format": "Standard",
       "language": "Hindi",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Lewisville",
+      "zip": "75067",
+      "theater_name": "Cinemark Lewisville and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517644379,
+      "date": "2025-09-27+16:35",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Lewisville",
+      "zip": "75067",
+      "theater_name": "Cinemark Lewisville and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517644380,
+      "date": "2025-09-27+20:15",
+      "format": "Standard",
+      "language": "Telugu",
       "error": {
         "status": 403
       }
