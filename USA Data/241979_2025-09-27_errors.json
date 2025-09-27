@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-27 09:58:36 PM",
+  "last_updated": "2025-09-27 10:50:43 PM",
   "errors": [
     {
       "state": "MA",
@@ -20682,6 +20682,51 @@
       "date": "2025-09-27+22:00",
       "format": "Standard",
       "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MD",
+      "city": "Silver Spring",
+      "zip": "20910",
+      "theater_name": "Regal Majestic & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 517640954,
+      "date": "2025-09-27+11:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Saint Charles",
+      "zip": "63303",
+      "theater_name": "Marcus St. Charles Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 517640226,
+      "date": "2025-09-27+21:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Lewisville",
+      "zip": "75067",
+      "theater_name": "Cinemark Lewisville and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517640266,
+      "date": "2025-09-27+22:05",
+      "format": "Standard",
+      "language": "Hindi",
       "error": {
         "status": 403
       }
