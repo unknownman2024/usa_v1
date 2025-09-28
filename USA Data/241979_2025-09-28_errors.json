@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-28 10:51:01 PM",
+  "last_updated": "2025-09-29 12:02:29 AM",
   "errors": [
     {
       "state": "MA",
@@ -18460,6 +18460,21 @@
       "chainCode": "AMC",
       "showtime_id": 517680031,
       "date": "2025-09-28+18:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Milpitas",
+      "zip": "95035",
+      "theater_name": "Cinemark Century Great Mall 20 XD and ScreenX",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517682622,
+      "date": "2025-09-28+16:20",
       "format": "Standard",
       "language": "Telugu",
       "error": {
