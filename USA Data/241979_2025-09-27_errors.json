@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-28 07:25:41 AM",
+  "last_updated": "2025-09-28 08:45:25 AM",
   "errors": [
     {
       "state": "MA",
@@ -20980,6 +20980,36 @@
       "chainCode": "CNMK",
       "showtime_id": 517667526,
       "date": "2025-09-27+22:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Union City",
+      "zip": "94587",
+      "theater_name": "Cinemark Century Union Landing 25 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517673135,
+      "date": "2025-09-27+21:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Union City",
+      "zip": "94587",
+      "theater_name": "Cinemark Century Union Landing 25 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517673136,
+      "date": "2025-09-27+22:15",
       "format": "Standard",
       "language": "Telugu",
       "error": {
