@@ -20908,5 +20908,80 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "OH",
+    "city": "Columbus",
+    "zip": "43240",
+    "theater_name": "Cinemark Polaris 18 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517667342,
+    "date": "2025-09-27+18:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Bloomington",
+    "zip": "61701",
+    "theater_name": "Marcus Bloomington Cinema + IMAX",
+    "chainName": "Marcus Theatres",
+    "chainCode": "MRCS",
+    "showtime_id": 517665742,
+    "date": "2025-09-27+21:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "OK",
+    "city": "Oklahoma City",
+    "zip": "73111",
+    "theater_name": "Cinemark Tinseltown Oklahoma City and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517663535,
+    "date": "2025-09-27+22:45",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "San Jose",
+    "zip": "95123",
+    "theater_name": "Cinemark Century Oakridge 20 XD and ScreenX",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517666029,
+    "date": "2025-09-27+21:45",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Bellevue",
+    "zip": "98004",
+    "theater_name": "Cinemark Lincoln Square",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517667526,
+    "date": "2025-09-27+22:20",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
   }
 ]
