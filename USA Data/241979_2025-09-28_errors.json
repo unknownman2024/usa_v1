@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-28 06:57:12 PM",
+  "last_updated": "2025-09-28 07:51:13 PM",
   "errors": [
     {
       "state": "MA",
@@ -18385,6 +18385,21 @@
       "chainCode": "REGL",
       "showtime_id": 514139656,
       "date": "2025-09-28+19:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Durham",
+      "zip": "27713",
+      "theater_name": "AMC Southpoint 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 0,
+      "date": "2025-09-28+19:35",
       "format": "Standard",
       "language": "Telugu",
       "error": {
