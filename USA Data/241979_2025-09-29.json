@@ -17008,5 +17008,20 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "WA",
+    "city": "Seattle",
+    "zip": "98125",
+    "theater_name": "Regal Thornton Place ScreenX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517789152,
+    "date": "2025-09-29+19:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
   }
 ]

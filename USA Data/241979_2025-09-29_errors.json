@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-30 03:51:21 AM",
+  "last_updated": "2025-09-30 04:54:17 AM",
   "errors": [
     {
       "state": "MA",
@@ -17005,6 +17005,21 @@
       "chainCode": "AMC",
       "showtime_id": 516961688,
       "date": "2025-09-29+14:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Seattle",
+      "zip": "98125",
+      "theater_name": "Regal Thornton Place ScreenX & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 517789152,
+      "date": "2025-09-29+19:30",
       "format": "Standard",
       "language": "Telugu",
       "error": {
