@@ -16858,5 +16858,65 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "WA",
+    "city": "Federal Way",
+    "zip": "98003",
+    "theater_name": "Cinemark Century Federal Way and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517237172,
+    "date": "2025-09-29+11:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Federal Way",
+    "zip": "98003",
+    "theater_name": "Cinemark Century Federal Way and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517237174,
+    "date": "2025-09-29+13:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Federal Way",
+    "zip": "98003",
+    "theater_name": "Cinemark Century Federal Way and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517237173,
+    "date": "2025-09-29+17:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "WA",
+    "city": "Federal Way",
+    "zip": "98003",
+    "theater_name": "Cinemark Century Federal Way and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517237175,
+    "date": "2025-09-29+19:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
   }
 ]
