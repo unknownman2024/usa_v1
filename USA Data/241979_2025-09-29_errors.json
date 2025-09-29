@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-29 10:52:46 PM",
+  "last_updated": "2025-09-30 12:06:22 AM",
   "errors": [
     {
       "state": "MA",
@@ -16915,6 +16915,66 @@
       "chainCode": "CNMK",
       "showtime_id": 517237175,
       "date": "2025-09-29+19:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Niles",
+      "zip": "60714",
+      "theater_name": "Ciné Lounge at Niles",
+      "chainName": "RTSIND",
+      "chainCode": "RTSIND",
+      "showtime_id": 517689538,
+      "date": "2025-09-29+16:00",
+      "format": "Premium Large Format",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Overland Park",
+      "zip": "66223",
+      "theater_name": "AMC DINE-IN Prairiefire 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 517723128,
+      "date": "2025-09-29+19:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Overland Park",
+      "zip": "66223",
+      "theater_name": "AMC DINE-IN Prairiefire 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 517723129,
+      "date": "2025-09-29+20:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Overland Park",
+      "zip": "66223",
+      "theater_name": "AMC DINE-IN Prairiefire 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 517723127,
+      "date": "2025-09-29+20:00",
       "format": "Standard",
       "language": "Telugu",
       "error": {
