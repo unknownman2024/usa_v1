@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-29 10:55:53 AM",
+  "last_updated": "2025-09-29 12:08:21 PM",
   "errors": [
     {
       "state": "MA",
@@ -18490,6 +18490,66 @@
       "chainCode": "CNMK",
       "showtime_id": 517692389,
       "date": "2025-09-28+19:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Centreville",
+      "zip": "20121",
+      "theater_name": "Cinemark Centreville",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517329282,
+      "date": "2025-09-28+10:05",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Centreville",
+      "zip": "20121",
+      "theater_name": "Cinemark Centreville",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517329281,
+      "date": "2025-09-28+13:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Centreville",
+      "zip": "20121",
+      "theater_name": "Cinemark Centreville",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517329280,
+      "date": "2025-09-28+16:55",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Centreville",
+      "zip": "20121",
+      "theater_name": "Cinemark Centreville",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517329279,
+      "date": "2025-09-28+20:20",
       "format": "Standard",
       "language": "Telugu",
       "error": {
