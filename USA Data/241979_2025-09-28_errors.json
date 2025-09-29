@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-29 08:40:36 AM",
+  "last_updated": "2025-09-29 09:59:59 AM",
   "errors": [
     {
       "state": "MA",
@@ -18475,6 +18475,21 @@
       "chainCode": "CNMK",
       "showtime_id": 517682622,
       "date": "2025-09-28+16:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "CA",
+      "city": "Orange",
+      "zip": "92867",
+      "theater_name": "Cinemark Century Orange and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 517692389,
+      "date": "2025-09-28+19:30",
       "format": "Standard",
       "language": "Telugu",
       "error": {
