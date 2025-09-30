@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-01 12:04:00 AM",
+  "last_updated": "2025-10-01 12:52:07 AM",
   "errors": [
     {
       "state": "MA",
@@ -18250,6 +18250,21 @@
       "chainCode": "CNMK",
       "showtime_id": 518056569,
       "date": "2025-09-30+21:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Kirkland",
+      "zip": "98034",
+      "theater_name": "Cinemark Totem Lake Kirkland and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 518024625,
+      "date": "2025-09-30+21:40",
       "format": "Standard",
       "language": "Telugu",
       "error": {
