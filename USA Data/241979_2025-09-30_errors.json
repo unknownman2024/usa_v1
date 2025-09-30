@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-30 02:04:50 PM",
+  "last_updated": "2025-09-30 02:57:32 PM",
   "errors": [
     {
       "state": "MA",
@@ -17830,6 +17830,36 @@
       "chainCode": "AMC",
       "showtime_id": 514186285,
       "date": "2025-09-30+19:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "ND",
+      "city": "Fargo",
+      "zip": "58103",
+      "theater_name": "Marcus West Acres Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 516956448,
+      "date": "2025-09-30+18:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "ND",
+      "city": "Fargo",
+      "zip": "58103",
+      "theater_name": "Marcus West Acres Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 516956449,
+      "date": "2025-09-30+21:25",
       "format": "Standard",
       "language": "Telugu",
       "error": {

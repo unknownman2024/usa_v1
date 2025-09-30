@@ -17833,5 +17833,35 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "ND",
+    "city": "Fargo",
+    "zip": "58103",
+    "theater_name": "Marcus West Acres Cinema",
+    "chainName": "Marcus Theatres",
+    "chainCode": "MRCS",
+    "showtime_id": 516956448,
+    "date": "2025-09-30+18:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "ND",
+    "city": "Fargo",
+    "zip": "58103",
+    "theater_name": "Marcus West Acres Cinema",
+    "chainName": "Marcus Theatres",
+    "chainCode": "MRCS",
+    "showtime_id": 516956449,
+    "date": "2025-09-30+21:25",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
   }
 ]
