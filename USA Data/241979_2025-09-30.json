@@ -17863,5 +17863,140 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "IL",
+    "city": "Schaumburg",
+    "zip": "60173",
+    "theater_name": "AMC Loews Streets Of Woodfield 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 517981869,
+    "date": "2025-09-30+19:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MN",
+    "city": "Eden Prairie",
+    "zip": "55344",
+    "theater_name": "AMC Eden Prairie Mall 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 517969389,
+    "date": "2025-09-30+19:45",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MN",
+    "city": "Eden Prairie",
+    "zip": "55344",
+    "theater_name": "AMC Eden Prairie Mall 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 517969388,
+    "date": "2025-09-30+21:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Grapevine",
+    "zip": "76051",
+    "theater_name": "Cinemark Tinseltown Grapevine and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517975908,
+    "date": "2025-09-30+21:40",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Grapevine",
+    "zip": "76051",
+    "theater_name": "Cinemark Tinseltown Grapevine and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517975909,
+    "date": "2025-09-30+21:50",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Pflugerville",
+    "zip": "78660",
+    "theater_name": "Cinemark Pflugerville 20 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 518008768,
+    "date": "2025-09-30+22:35",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "The Woodlands",
+    "zip": "77380",
+    "theater_name": "Cinemark The Woodlands and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517994037,
+    "date": "2025-09-30+18:50",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "The Woodlands",
+    "zip": "77380",
+    "theater_name": "Cinemark The Woodlands and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517994038,
+    "date": "2025-09-30+21:50",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Fremont",
+    "zip": "94538",
+    "theater_name": "Cinemark Century at Pacific Commons and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 517975799,
+    "date": "2025-09-30+18:35",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
   }
 ]
