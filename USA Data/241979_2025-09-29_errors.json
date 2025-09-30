@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-30 04:54:17 AM",
+  "last_updated": "2025-09-30 07:14:46 AM",
   "errors": [
     {
       "state": "MA",
@@ -17020,6 +17020,21 @@
       "chainCode": "REGL",
       "showtime_id": 517789152,
       "date": "2025-09-29+19:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "AMC DINE-IN Stonebriar 24",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 517822245,
+      "date": "2025-09-29+22:15",
       "format": "Standard",
       "language": "Telugu",
       "error": {
