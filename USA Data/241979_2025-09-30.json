@@ -18313,5 +18313,35 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "NC",
+    "city": "Wilmington",
+    "zip": "28405",
+    "theater_name": "Regal Mayfaire & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517125174,
+    "date": "2025-09-30+16:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NC",
+    "city": "Wilmington",
+    "zip": "28405",
+    "theater_name": "Regal Mayfaire & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 517125200,
+    "date": "2025-09-30+20:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
   }
 ]

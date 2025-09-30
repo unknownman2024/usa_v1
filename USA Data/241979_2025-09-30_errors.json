@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-01 01:58:57 AM",
+  "last_updated": "2025-10-01 02:52:43 AM",
   "errors": [
     {
       "state": "MA",
@@ -18310,6 +18310,36 @@
       "chainCode": "CNMK",
       "showtime_id": 518138913,
       "date": "2025-09-30+22:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Wilmington",
+      "zip": "28405",
+      "theater_name": "Regal Mayfaire & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 517125174,
+      "date": "2025-09-30+16:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Wilmington",
+      "zip": "28405",
+      "theater_name": "Regal Mayfaire & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 517125200,
+      "date": "2025-09-30+20:00",
       "format": "Standard",
       "language": "Telugu",
       "error": {
