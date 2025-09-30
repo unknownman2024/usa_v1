@@ -17683,5 +17683,155 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "NC",
+    "city": "Durham",
+    "zip": "27713",
+    "theater_name": "AMC Southpoint 17",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 517213116,
+    "date": "2025-09-30+19:10",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NC",
+    "city": "Durham",
+    "zip": "27713",
+    "theater_name": "AMC Southpoint 17",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 517213117,
+    "date": "2025-09-30+22:45",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NC",
+    "city": "Fayetteville",
+    "zip": "28314",
+    "theater_name": "AMC Market Fair 15",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 517116449,
+    "date": "2025-09-30+14:40",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NC",
+    "city": "Fayetteville",
+    "zip": "28314",
+    "theater_name": "AMC Market Fair 15",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 517116450,
+    "date": "2025-09-30+18:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "NC",
+    "city": "Fayetteville",
+    "zip": "28314",
+    "theater_name": "AMC Market Fair 15",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 517116451,
+    "date": "2025-09-30+21:50",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "OH",
+    "city": "Columbus",
+    "zip": "43219",
+    "theater_name": "AMC Dine-in Easton Town Center 30",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 517078325,
+    "date": "2025-09-30+13:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "OH",
+    "city": "Columbus",
+    "zip": "43219",
+    "theater_name": "AMC Dine-in Easton Town Center 30",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 517078327,
+    "date": "2025-09-30+20:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Niles",
+    "zip": "60714",
+    "theater_name": "Cin\u00e9 Lounge at Niles",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 517965509,
+    "date": "2025-09-30+20:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "Niles",
+    "zip": "60714",
+    "theater_name": "Cin\u00e9 Lounge at Niles",
+    "chainName": "RTSIND",
+    "chainCode": "RTSIND",
+    "showtime_id": 517965511,
+    "date": "2025-09-30+21:45",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TX",
+    "city": "Katy",
+    "zip": "77494",
+    "theater_name": "AMC Katy Mills 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 514186285,
+    "date": "2025-09-30+19:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
   }
 ]
