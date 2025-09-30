@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-30 10:52:27 PM",
+  "last_updated": "2025-10-01 12:04:00 AM",
   "errors": [
     {
       "state": "MA",
@@ -17995,6 +17995,261 @@
       "chainCode": "CNMK",
       "showtime_id": 517975799,
       "date": "2025-09-30+18:35",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "FL",
+      "city": "Tallahassee",
+      "zip": "32303",
+      "theater_name": "AMC Tallahassee 20",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 518061728,
+      "date": "2025-09-30+20:55",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "MO",
+      "city": "Chesterfield",
+      "zip": "63005",
+      "theater_name": "Marcus Chesterfield Cinema",
+      "chainName": "Marcus Theatres",
+      "chainCode": "MRCS",
+      "showtime_id": 518020102,
+      "date": "2025-09-30+20:40",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Plano",
+      "zip": "75075",
+      "theater_name": "Cinemark Central Plano",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 518046548,
+      "date": "2025-09-30+20:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Plano",
+      "zip": "75093",
+      "theater_name": "Cinemark West Plano and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 518073579,
+      "date": "2025-09-30+19:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Plano",
+      "zip": "75093",
+      "theater_name": "Cinemark West Plano and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 518073581,
+      "date": "2025-09-30+21:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Plano",
+      "zip": "75093",
+      "theater_name": "Cinemark West Plano and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 518073580,
+      "date": "2025-09-30+22:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75033",
+      "theater_name": "CUT! by Cinemark Frisco - Dine-in Theatre, Kitchen",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 518034549,
+      "date": "2025-09-30+15:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75033",
+      "theater_name": "CUT! by Cinemark Frisco - Dine-in Theatre, Kitchen",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 518034548,
+      "date": "2025-09-30+21:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75033",
+      "theater_name": "CUT! by Cinemark Frisco - Dine-in Theatre, Kitchen",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 518072502,
+      "date": "2025-09-30+21:50",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75033",
+      "theater_name": "CUT! by Cinemark Frisco - Dine-in Theatre, Kitchen",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 518072503,
+      "date": "2025-09-30+22:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Denton",
+      "zip": "76210",
+      "theater_name": "Cinemark Denton 14",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 518047065,
+      "date": "2025-09-30+20:35",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Denton",
+      "zip": "76210",
+      "theater_name": "Cinemark Denton 14",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 518047066,
+      "date": "2025-09-30+21:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Pflugerville",
+      "zip": "78660",
+      "theater_name": "Cinemark Pflugerville 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 518047825,
+      "date": "2025-09-30+20:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Pflugerville",
+      "zip": "78660",
+      "theater_name": "Cinemark Pflugerville 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 518047826,
+      "date": "2025-09-30+21:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Cypress",
+      "zip": "77429",
+      "theater_name": "Cinemark Cypress and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 518046636,
+      "date": "2025-09-30+21:05",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "The Woodlands",
+      "zip": "77380",
+      "theater_name": "Cinemark The Woodlands and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 518048973,
+      "date": "2025-09-30+21:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Beaumont",
+      "zip": "77705",
+      "theater_name": "Cinemark Beaumont 15 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 518056569,
+      "date": "2025-09-30+21:15",
       "format": "Standard",
       "language": "Telugu",
       "error": {
