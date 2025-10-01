@@ -13513,5 +13513,65 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "IL",
+    "city": "Chicago",
+    "zip": "60611",
+    "theater_name": "AMC River East 21",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 518365570,
+    "date": "2025-10-01+13:10",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "North Aurora",
+    "zip": "60542",
+    "theater_name": "Cinemark Tinseltown USA Aurora",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 518363124,
+    "date": "2025-10-01+16:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "North Aurora",
+    "zip": "60542",
+    "theater_name": "Cinemark Tinseltown USA Aurora",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 518363125,
+    "date": "2025-10-01+19:55",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "IL",
+    "city": "North Aurora",
+    "zip": "60542",
+    "theater_name": "Cinemark Tinseltown USA Aurora",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 518363149,
+    "date": "2025-10-01+19:05",
+    "format": "Standard",
+    "language": "Hindi",
+    "error": {
+      "status": 403
+    }
   }
 ]
