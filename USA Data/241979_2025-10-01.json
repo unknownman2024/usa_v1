@@ -13453,5 +13453,65 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "NC",
+    "city": "Morrisville",
+    "zip": "27560",
+    "theater_name": "AMC Park Place 16",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 518357417,
+    "date": "2025-10-01+18:45",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Orlando",
+    "zip": "32819",
+    "theater_name": "Regal Pointe Orlando 4DX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 514118780,
+    "date": "2025-10-01+12:50",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Orlando",
+    "zip": "32819",
+    "theater_name": "Regal Pointe Orlando 4DX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 514118781,
+    "date": "2025-10-01+16:45",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "FL",
+    "city": "Orlando",
+    "zip": "32819",
+    "theater_name": "Regal Pointe Orlando 4DX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 514118782,
+    "date": "2025-10-01+20:35",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
   }
 ]
