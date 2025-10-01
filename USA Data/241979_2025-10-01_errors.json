@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-02 02:53:45 AM",
+  "last_updated": "2025-10-02 03:53:27 AM",
   "errors": [
     {
       "state": "MA",
@@ -13585,6 +13585,21 @@
       "chainCode": "AMC",
       "showtime_id": 518373371,
       "date": "2025-10-01+14:55",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "VA",
+      "city": "Ashburn",
+      "zip": "20148",
+      "theater_name": "Regal Fox 4DX & IMAX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 518399154,
+      "date": "2025-10-01+22:00",
       "format": "Standard",
       "language": "Telugu",
       "error": {
