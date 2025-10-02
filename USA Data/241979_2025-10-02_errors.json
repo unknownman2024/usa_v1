@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-02 12:54:18 PM",
+  "last_updated": "2025-10-02 02:01:44 PM",
   "errors": [
     {
       "state": "CT",
@@ -8050,6 +8050,21 @@
       "chainCode": "REGL",
       "showtime_id": 514139670,
       "date": "2025-10-02+13:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "WA",
+      "city": "Lynnwood",
+      "zip": "98037",
+      "theater_name": "AMC Loews Alderwood Mall 16",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 518220853,
+      "date": "2025-10-02+15:30",
       "format": "Standard",
       "language": "Telugu",
       "error": {
