@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-02 08:56:55 PM",
+  "last_updated": "2025-10-02 10:01:45 PM",
   "errors": [
     {
       "state": "CT",
@@ -8065,6 +8065,36 @@
       "chainCode": "AMC",
       "showtime_id": 518220853,
       "date": "2025-10-02+15:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Grand Prairie",
+      "zip": "75052",
+      "theater_name": "Cinemark Grand Prairie",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 518434999,
+      "date": "2025-10-02+14:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Grand Prairie",
+      "zip": "75052",
+      "theater_name": "Cinemark Grand Prairie",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 518435000,
+      "date": "2025-10-02+18:05",
       "format": "Standard",
       "language": "Telugu",
       "error": {
