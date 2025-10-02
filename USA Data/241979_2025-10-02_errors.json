@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-03 12:50:58 AM",
+  "last_updated": "2025-10-03 01:58:08 AM",
   "errors": [
     {
       "state": "CT",
@@ -8110,6 +8110,81 @@
       "chainCode": "CNMK",
       "showtime_id": 518443193,
       "date": "2025-10-02+15:35",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "McKinney",
+      "zip": "75071",
+      "theater_name": "Cinemark North McKinney and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 518447557,
+      "date": "2025-10-02+10:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "McKinney",
+      "zip": "75071",
+      "theater_name": "Cinemark North McKinney and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 518447556,
+      "date": "2025-10-02+12:35",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "McKinney",
+      "zip": "75071",
+      "theater_name": "Cinemark North McKinney and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 518447560,
+      "date": "2025-10-02+15:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "McKinney",
+      "zip": "75071",
+      "theater_name": "Cinemark North McKinney and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 518447558,
+      "date": "2025-10-02+18:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "McKinney",
+      "zip": "75071",
+      "theater_name": "Cinemark North McKinney and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 518447559,
+      "date": "2025-10-02+21:50",
       "format": "Standard",
       "language": "Telugu",
       "error": {
