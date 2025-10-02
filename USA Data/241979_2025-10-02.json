@@ -8098,5 +8098,20 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "NJ",
+    "city": "Somerdale",
+    "zip": "08083",
+    "theater_name": "Cinemark Somerdale 16 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 518443193,
+    "date": "2025-10-02+15:35",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
   }
 ]
