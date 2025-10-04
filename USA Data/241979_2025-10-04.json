@@ -4453,5 +4453,35 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "PA",
+    "city": "Downingtown",
+    "zip": "19335",
+    "theater_name": "Regal Downingtown & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 518608648,
+    "date": "2025-10-04+21:45",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "MO",
+    "city": "Chesterfield",
+    "zip": "63005",
+    "theater_name": "Marcus Chesterfield Cinema",
+    "chainName": "Marcus Theatres",
+    "chainCode": "MRCS",
+    "showtime_id": 518608042,
+    "date": "2025-10-04+22:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
   }
 ]
