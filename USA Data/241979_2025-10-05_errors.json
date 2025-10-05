@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-05 04:49:50 PM",
+  "last_updated": "2025-10-05 06:12:59 PM",
   "errors": [
     {
       "state": "MA",
@@ -4195,6 +4195,21 @@
       "chainCode": "GLXY",
       "showtime_id": 517950641,
       "date": "2025-10-05+20:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NY",
+      "city": "New York",
+      "zip": "10036",
+      "theater_name": "AMC Empire 25",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 518219907,
+      "date": "2025-10-05+18:15",
       "format": "Standard",
       "language": "Telugu",
       "error": {
