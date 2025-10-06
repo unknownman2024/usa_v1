@@ -4783,5 +4783,35 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "TN",
+    "city": "Nashville",
+    "zip": "37204",
+    "theater_name": "Regal Hollywood ScreenX, 4DX & RPX \u2013 Nashville",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 518113639,
+    "date": "2025-10-06+18:25",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "TN",
+    "city": "Nashville",
+    "zip": "37204",
+    "theater_name": "Regal Hollywood ScreenX, 4DX & RPX \u2013 Nashville",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 518113640,
+    "date": "2025-10-06+22:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
   }
 ]

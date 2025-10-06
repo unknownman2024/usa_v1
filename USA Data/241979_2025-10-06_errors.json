@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-06 04:52:21 PM",
+  "last_updated": "2025-10-06 06:20:36 PM",
   "errors": [
     {
       "state": "CT",
@@ -4780,6 +4780,36 @@
       "chainCode": "GLXY",
       "showtime_id": 517950654,
       "date": "2025-10-06+20:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Nashville",
+      "zip": "37204",
+      "theater_name": "Regal Hollywood ScreenX, 4DX & RPX – Nashville",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 518113639,
+      "date": "2025-10-06+18:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TN",
+      "city": "Nashville",
+      "zip": "37204",
+      "theater_name": "Regal Hollywood ScreenX, 4DX & RPX – Nashville",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 518113640,
+      "date": "2025-10-06+22:00",
       "format": "Standard",
       "language": "Telugu",
       "error": {
