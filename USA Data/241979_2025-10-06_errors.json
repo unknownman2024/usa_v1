@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-06 10:52:54 PM",
+  "last_updated": "2025-10-07 12:06:49 AM",
   "errors": [
     {
       "state": "CT",
@@ -4840,6 +4840,21 @@
       "chainCode": "CNMK",
       "showtime_id": 518682222,
       "date": "2025-10-06+15:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Oaks",
+      "zip": "19456",
+      "theater_name": "Oaks Center Cinema",
+      "chainName": "Veezi Theaters",
+      "chainCode": "VZ",
+      "showtime_id": 518689100,
+      "date": "2025-10-06+19:25",
       "format": "Standard",
       "language": "Telugu",
       "error": {
