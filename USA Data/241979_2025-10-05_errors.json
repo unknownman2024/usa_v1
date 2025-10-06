@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-06 10:55:31 AM",
+  "last_updated": "2025-10-06 12:07:33 PM",
   "errors": [
     {
       "state": "MA",
@@ -4210,6 +4210,21 @@
       "chainCode": "AMC",
       "showtime_id": 518219907,
       "date": "2025-10-05+18:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "McKinney",
+      "zip": "75071",
+      "theater_name": "Cinemark North McKinney and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 518672285,
+      "date": "2025-10-05+22:40",
       "format": "Standard",
       "language": "Telugu",
       "error": {

@@ -4213,5 +4213,20 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "TX",
+    "city": "McKinney",
+    "zip": "75071",
+    "theater_name": "Cinemark North McKinney and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 518672285,
+    "date": "2025-10-05+22:40",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
   }
 ]
