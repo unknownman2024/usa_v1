@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-07 06:20:07 PM",
+  "last_updated": "2025-10-07 07:05:42 PM",
   "errors": [
     {
       "state": "CT",
@@ -5470,6 +5470,21 @@
       "chainCode": "AMC",
       "showtime_id": 0,
       "date": "2025-10-07+19:15",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Frisco",
+      "zip": "75034",
+      "theater_name": "Cinemark Frisco Square and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 518981692,
+      "date": "2025-10-07+15:55",
       "format": "Standard",
       "language": "Telugu",
       "error": {
