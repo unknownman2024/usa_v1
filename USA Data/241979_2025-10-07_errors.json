@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-07 03:57:07 PM",
+  "last_updated": "2025-10-07 04:51:44 PM",
   "errors": [
     {
       "state": "CT",
@@ -5455,6 +5455,21 @@
       "chainCode": "GLXY",
       "showtime_id": 517950688,
       "date": "2025-10-07+20:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NC",
+      "city": "Durham",
+      "zip": "27713",
+      "theater_name": "AMC Southpoint 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 0,
+      "date": "2025-10-07+19:15",
       "format": "Standard",
       "language": "Telugu",
       "error": {
