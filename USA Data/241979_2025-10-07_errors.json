@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-07 10:01:50 PM",
+  "last_updated": "2025-10-07 10:53:49 PM",
   "errors": [
     {
       "state": "CT",
@@ -5485,6 +5485,21 @@
       "chainCode": "CNMK",
       "showtime_id": 518981692,
       "date": "2025-10-07+15:55",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "PA",
+      "city": "Pittsburgh",
+      "zip": "15205",
+      "theater_name": "Cinemark Robinson Township and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 519012125,
+      "date": "2025-10-07+21:50",
       "format": "Standard",
       "language": "Telugu",
       "error": {
