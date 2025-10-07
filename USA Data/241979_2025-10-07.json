@@ -5503,5 +5503,20 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "MO",
+    "city": "Saint Charles",
+    "zip": "63303",
+    "theater_name": "Marcus St. Charles Cinema",
+    "chainName": "Marcus Theatres",
+    "chainCode": "MRCS",
+    "showtime_id": 519186491,
+    "date": "2025-10-07+21:35",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
   }
 ]
