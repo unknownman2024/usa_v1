@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-09 03:53:30 AM",
+  "last_updated": "2025-10-09 04:53:22 AM",
   "errors": [
     {
       "state": "CT",
@@ -4825,6 +4825,21 @@
       "chainCode": "AMC",
       "showtime_id": 0,
       "date": "2025-10-08+18:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Hamilton Township",
+      "zip": "08610",
+      "theater_name": "Regal Independence Plaza & RPX",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 519424545,
+      "date": "2025-10-08+21:30",
       "format": "Standard",
       "language": "Telugu",
       "error": {
