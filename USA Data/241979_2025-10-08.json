@@ -4813,5 +4813,20 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "FL",
+    "city": "Tampa",
+    "zip": "33647",
+    "theater_name": "AMC Highwoods 20",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 0,
+    "date": "2025-10-08+18:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
   }
 ]
