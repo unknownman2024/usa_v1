@@ -3073,5 +3073,20 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "TX",
+    "city": "Allen",
+    "zip": "75013",
+    "theater_name": "Cinemark Allen 16 and XD",
+    "chainName": "Cinemark Theatres",
+    "chainCode": "CNMK",
+    "showtime_id": 519466129,
+    "date": "2025-10-09+21:50",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
   }
 ]
