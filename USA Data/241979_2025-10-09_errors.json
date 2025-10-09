@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-10 12:04:56 AM",
+  "last_updated": "2025-10-10 12:51:46 AM",
   "errors": [
     {
       "state": "CT",
@@ -2995,6 +2995,51 @@
       "chainCode": "CNMK",
       "showtime_id": 519455389,
       "date": "2025-10-09+15:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "South Plainfield",
+      "zip": "07080",
+      "theater_name": "Regal Hadley Theatre",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 519256604,
+      "date": "2025-10-09+13:25",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "South Plainfield",
+      "zip": "07080",
+      "theater_name": "Regal Hadley Theatre",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 519256613,
+      "date": "2025-10-09+17:10",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "South Plainfield",
+      "zip": "07080",
+      "theater_name": "Regal Hadley Theatre",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 519256612,
+      "date": "2025-10-09+20:45",
       "format": "Standard",
       "language": "Telugu",
       "error": {
