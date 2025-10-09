@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-10 12:51:46 AM",
+  "last_updated": "2025-10-10 01:59:06 AM",
   "errors": [
     {
       "state": "CT",
@@ -3040,6 +3040,36 @@
       "chainCode": "REGL",
       "showtime_id": 519256612,
       "date": "2025-10-09+20:45",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "NJ",
+      "city": "Secaucus",
+      "zip": "07094",
+      "theater_name": "Regal Secaucus ShowPlace 14",
+      "chainName": "Regal",
+      "chainCode": "REGL",
+      "showtime_id": 519456290,
+      "date": "2025-10-09+15:30",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "KS",
+      "city": "Overland Park",
+      "zip": "66223",
+      "theater_name": "AMC DINE-IN Prairiefire 17",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 519459682,
+      "date": "2025-10-09+20:35",
       "format": "Standard",
       "language": "Telugu",
       "error": {
