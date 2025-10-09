@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-09 10:53:39 PM",
+  "last_updated": "2025-10-10 12:04:56 AM",
   "errors": [
     {
       "state": "CT",
@@ -2980,6 +2980,21 @@
       "chainCode": "CNMK",
       "showtime_id": 519150412,
       "date": "2025-10-09+12:00",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Joliet",
+      "zip": "60431",
+      "theater_name": "Cinemark Louis Joliet Mall",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 519455389,
+      "date": "2025-10-09+15:25",
       "format": "Standard",
       "language": "Telugu",
       "error": {
