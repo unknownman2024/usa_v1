@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-14 10:53:00 PM",
+  "last_updated": "2025-10-15 12:06:04 AM",
   "errors": [
     {
       "state": "MA",
@@ -985,6 +985,21 @@
       "chainCode": "AMC",
       "showtime_id": 0,
       "date": "2025-10-14+16:05",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "TX",
+      "city": "Pflugerville",
+      "zip": "78660",
+      "theater_name": "Cinemark Pflugerville 20 and XD",
+      "chainName": "Cinemark Theatres",
+      "chainCode": "CNMK",
+      "showtime_id": 519937188,
+      "date": "2025-10-14+23:05",
       "format": "Standard",
       "language": "Telugu",
       "error": {
