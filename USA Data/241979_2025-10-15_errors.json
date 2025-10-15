@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-15 03:59:27 PM",
+  "last_updated": "2025-10-15 04:52:02 PM",
   "errors": [
     {
       "state": "MA",
@@ -880,6 +880,21 @@
       "chainCode": "CNMK",
       "showtime_id": 518909736,
       "date": "2025-10-15+20:20",
+      "format": "Standard",
+      "language": "Telugu",
+      "error": {
+        "status": 403
+      }
+    },
+    {
+      "state": "IL",
+      "city": "Peoria",
+      "zip": "61615",
+      "theater_name": "AMC Grand Prairie 18",
+      "chainName": "AMC",
+      "chainCode": "AMC",
+      "showtime_id": 0,
+      "date": "2025-10-15+14:20",
       "format": "Standard",
       "language": "Telugu",
       "error": {

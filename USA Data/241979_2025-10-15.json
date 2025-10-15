@@ -883,5 +883,20 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "IL",
+    "city": "Peoria",
+    "zip": "61615",
+    "theater_name": "AMC Grand Prairie 18",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 0,
+    "date": "2025-10-15+14:20",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
   }
 ]
