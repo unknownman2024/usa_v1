@@ -343,5 +343,20 @@
     "error": {
       "status": 403
     }
+  },
+  {
+    "state": "NC",
+    "city": "Charlotte",
+    "zip": "28273",
+    "theater_name": "AMC Carolina Pavilion 22",
+    "chainName": "AMC",
+    "chainCode": "AMC",
+    "showtime_id": 0,
+    "date": "2025-10-16+13:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
   }
 ]
