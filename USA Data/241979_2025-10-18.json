@@ -1,0 +1,137 @@
+[
+  {
+    "state": "NJ",
+    "city": "North Brunswick",
+    "zip": "08902",
+    "theater_name": "Regal Commerce Center & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 519712794,
+    "date": "2025-10-18+13:55",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "VA",
+    "city": "Ashburn",
+    "zip": "20148",
+    "theater_name": "Regal Fox 4DX & IMAX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 520033338,
+    "date": "2025-10-18+12:10",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Alpharetta",
+    "zip": "30005",
+    "theater_name": "CMX Cin\u00e9Bistro Halcyon",
+    "chainName": "CMX Cinemas",
+    "chainCode": "COBB",
+    "showtime_id": 520156805,
+    "date": "2025-10-18+20:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Duluth",
+    "zip": "30097",
+    "theater_name": "Regal Medlock Crossing & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 519876810,
+    "date": "2025-10-18+13:15",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "GA",
+    "city": "Duluth",
+    "zip": "30097",
+    "theater_name": "Regal Medlock Crossing & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 519876812,
+    "date": "2025-10-18+20:00",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Dublin",
+    "zip": "94568",
+    "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 519866320,
+    "date": "2025-10-18+09:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Dublin",
+    "zip": "94568",
+    "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 519866330,
+    "date": "2025-10-18+13:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Dublin",
+    "zip": "94568",
+    "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 519866354,
+    "date": "2025-10-18+17:30",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  },
+  {
+    "state": "CA",
+    "city": "Dublin",
+    "zip": "94568",
+    "theater_name": "Regal Hacienda Crossings ScreenX, IMAX & RPX",
+    "chainName": "Regal",
+    "chainCode": "REGL",
+    "showtime_id": 519866366,
+    "date": "2025-10-18+21:25",
+    "format": "Standard",
+    "language": "Telugu",
+    "error": {
+      "status": 403
+    }
+  }
+]
